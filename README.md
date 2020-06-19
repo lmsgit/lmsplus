@@ -1,7 +1,3 @@
----
-title: "LMS Plus"
----
-
 ## Korzyści uczestnika projektu LMS Plus
 
 Uczestnik uzyskuje dostęp do specjalnej gałęzi stabilnej LMS oraz utrzymywanych na bieżąco dodatków do publicznie dostępnej gałęzi LMS (lista wszystkich obecnie dostępnych dodatków jest dostępna poniżej i aktualizowana na bieżąco).
