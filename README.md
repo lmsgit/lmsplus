@@ -1,5 +1,5 @@
 ---
-title: LMS Plus
+title: "LMS Plus"
 ---
 
 ## Korzyści uczestnika projektu LMS Plus
