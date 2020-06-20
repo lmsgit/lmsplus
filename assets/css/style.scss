@@ -24,4 +24,9 @@ a {
   &:hover {
     color: $extradark;
   }
+  &:focus {
+    outline-color: $extradark;
+    outline-width: 2px;
+    outline-style: solid;
+  }
 }
