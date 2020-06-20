@@ -8,6 +8,7 @@ $lucid: #EBE4D6;
 $light: #DFD5BD;
 $dark: #CEBD9B;
 $superdark: #B6A688;
+$extradark: #946d23;
 
 body {
   background-color: $light;
@@ -15,4 +16,11 @@ body {
 
 .highlight {
   background-color: $lucid;
+}
+
+a {
+  color: $extradark;
+  &:focus {
+    color: $extradark;
+  }
 }
