@@ -20,7 +20,8 @@ body {
 
 a {
   color: $extradark;
-  &:focus {
+  &:focus,
+  &:hover {
     color: $extradark;
   }
 }
