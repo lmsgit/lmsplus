@@ -9,9 +9,11 @@ $light: #DFD5BD;
 $dark: #CEBD9B;
 $superdark: #B6A688;
 $extradark: #946d23;
+$text-color: black;
 
 body {
   background-color: $light;
+  color: $text-color;
 }
 
 .highlight {
