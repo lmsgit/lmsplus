@@ -2,3 +2,13 @@
 ---
 
 @import "{{ site.theme }}";
+
+$superlight: #F4F0EC;
+$lucid: #EBE4D6;
+$light: #DFD5BD;
+$dark: #CEBD9B;
+$superdark: #B6A688;
+
+body {
+  background-color: $light;
+}
