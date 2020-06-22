@@ -14,7 +14,7 @@ Zapraszamy do dołączenia do projektu LMS Plus - można to zrobić wysyłając 
  4. Nazwa konta w systemie github.com (konto trzeba utworzyć samodzielnie).
  5. Załączony skan podpisanego i przypieczętowanego regulaminu projektu dostępnego poniżej.
 
-[Regulamin projektu LMS Plus](https://www.chilan.com/lms-plus/lms-plus-regulamin.pdf)
+[Regulamin projektu LMS Plus](/assets/files/lms-plus-regulamin.pdf)
 
 ## Dostęp do repozytorium projektu LMS Plus
 
