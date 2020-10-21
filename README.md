@@ -5,6 +5,15 @@ Wszystkie dodatki przechowywane są w odrębnych gałęziach systemu kontroli we
 sprawne zarządzanie dodatkami udostępnianymi w ramach projektu poprzez wykonywanie półautomatycznych synchronizacji zachodzących zmian w kodzie. Dokumentację systemu git znajdziemy pod adresem [https://git-scm.com/doc](https://git-scm.com/doc). Uczestnicy projektu są traktowani przez opiekuna projektu LMS Plus priorytetowo i uzyskują odpowiedzi na pytania techniczne w pierwszej kolejności przed resztą społeczności internetowej. Nasze rozwiązania oparte są na kilkunastu latach doświadczeń w programowaniu w środowisku sieciowym (m.in. uczestnictwo w projektach Kadu oraz LMS). Gwarantujemy zadowolenie i najwyższą technicznie
 jakość obsługi.
 
+#### Podsumowanie korzyści
+
+1. Dostęp do kodu źródłowego wszystkich rozwiązań dostępnych w projekcie.
+1. Utrzymywane są na bieżąco wydania stabilne LMS+ (od kilku lat dwa wydania równolegle - żeby umożliwić łagodne migracje między wersjami) - obecnie są to 25.x i 24.x. Do wersji stabilnych wchodzą głównie poprawki błędów oraz krytyczne zmiany z wersji rozwojowej - ostatnią krytyczną zmianą, która trafiła do wydań 25.x i 24.x była obsługa wszystkich potrzebnych dla ISP zmian związanych z JPK V7M.
+1. Dostęp do bogatej dokumentacji w postaci wiki.
+1. Wsparcie mailowe poprzez:
+    - listę mailingową lms-plus@lists.lms.org.pl,
+    - system zgłoszeń (ang. issues) projektu w witrynie github.com.
+
 ## Dołączenie do projektu LMS Plus
 
 Zapraszamy do dołączenia do projektu LMS Plus - można to zrobić wysyłając maila na adres [biuro@chilan.com](mailto:biuro@chilan.com?subject=projekt%20LMS%20Plus) o następującej treści:
@@ -40,9 +49,9 @@ Zapraszamy do dołączenia do projektu LMS Plus - można to zrobić wysyłając 
 
 [gałąź główna (klon publicznie dostępnej gałęzi master)](https://github.com/chilek/lms-plus/tree/master)
 
-[gałąź stabilna](https://github.com/chilek/lms-plus/tree/stable) (ostatnia wersja **25.5**)
+[gałąź stabilna](https://github.com/chilek/lms-plus/tree/stable) (ostatnia wersja **25.15**)
 
-[poprzednia gałąź stabilna](https://github.com/chilek/lms-plus/tree/stable-24) (ostatnia wersja **24.33**)
+[poprzednia gałąź stabilna](https://github.com/chilek/lms-plus/tree/stable-24) (ostatnia wersja **24.42**)
 
 [przestarzała gałąź stabilna](https://github.com/chilek/lms-plus/tree/stable-1.11.23) (ostatnia wersja **1.11.23.32**)
 
