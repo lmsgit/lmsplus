@@ -63,9 +63,9 @@ Zapraszamy do dołączenia do projektu LMS Plus - można to zrobić wysyłając 
 
 [przestarzała gałąź stabilna](https://github.com/chilek/lms-plus/tree/stable-1.11.19) (ostatnia wersja **1.11.19.15**)
 
-[wtyczka: obsługa gpon urządzeń firmy ZTE](https://github.com/chilek/lms-plus/tree/gpon-zte) - **[zrzuty ekranu](https://github.com/lmsgit/lms/wiki/GPON-ZTE-zrzuty-ekranu)**
+[wtyczka: obsługa gpon urządzeń firmy ZTE](https://github.com/chilek/lms-plus/tree/gpon-zte/plugins/LMSGponZtePlugin/doc) - **[zrzuty ekranu](https://github.com/lmsgit/lms/wiki/GPON-ZTE-zrzuty-ekranu)**
 
-[wtyczka: obsługa gpon urządzeń firmy Dasan](https://github.com/chilek/lms-plus/tree/gpon-dasan) - **[zrzuty ekranu](https://github.com/lmsgit/lms/wiki/GPON-DASAN-zrzuty-ekranu)**
+[wtyczka: obsługa gpon urządzeń firmy Dasan](https://github.com/chilek/lms-plus/tree/gpon-dasan/plugins/LMSGponDasanPlugin/doc) - **[zrzuty ekranu](https://github.com/lmsgit/lms/wiki/GPON-DASAN-zrzuty-ekranu)**
 
 [wtyczka: obsługa platformy VoIP Hiperus C5](https://github.com/chilek/lms-plus/tree/hiperus)
 
@@ -91,6 +91,8 @@ Zapraszamy do dołączenia do projektu LMS Plus - można to zrobić wysyłając 
 [wtyczka: integracja ze speedtest.pl](https://github.com/chilek/lms-plus/tree/speedtest) - **[zrzuty ekranu](https://github.com/lmsgit/lms/wiki/SPEEDTEST-zrzuty-ekranu)**
 
 [wtyczka: statystyki w oparciu o pakiet narzędziowy RRDTOOL](https://github.com/chilek/lms-plus/tree/rrdstats) - **[zrzuty ekranu](https://github.com/lmsgit/lms/wiki/RRDSTATS-zrzuty-ekranu)**
+
+[wtyczka: obsługa SMS w Mikrotiku](https://github.com/chilek/lms-plus/tree/mikrotik-sms/plugins/LMSMikrotikSmsPlugin/doc)
 
 [wtyczka: obsługa platformy IPTV Evio](https://github.com/chilek/lms-plus/tree/evio) - **[zrzuty ekranu](https://github.com/lmsgit/lms/wiki/EVIO-zrzuty-ekranu)**
 
