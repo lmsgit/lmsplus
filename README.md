@@ -94,6 +94,10 @@ Zapraszamy do dołączenia do projektu LMS Plus - można to zrobić wysyłając 
 
 [wtyczka: obsługa SMS w oparciu o SerwerSMS.pl/SMS.pl](https://github.com/chilek/lms-plus/tree/serwersms/plugins/LMSSerwerSmsPlugin)
 
+[wtyczka: obsługa SMS w oparciu o SMSAPI.pl](https://github.com/chilek/lms-plus/tree/smsapi/plugins/LMSSmsApiPlugin)
+
+[wtyczka: obsługa SMS w oparciu o SMSCenter.pl](https://github.com/chilek/lms-plus/tree/smscenter/plugins/LMSSmsCenterPlugin)
+
 [wtyczka: obsługa SMS w Mikrotiku](https://github.com/chilek/lms-plus/tree/mikrotik-sms/plugins/LMSMikrotikSmsPlugin/doc)
 
 [wtyczka: obsługa platformy IPTV Evio](https://github.com/chilek/lms-plus/tree/evio) - **[zrzuty ekranu](https://github.com/lmsgit/lms/wiki/EVIO-zrzuty-ekranu)**
