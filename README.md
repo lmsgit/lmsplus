@@ -94,7 +94,7 @@ Zapraszamy do dołączenia do projektu LMS Plus - można to zrobić wysyłając 
 
 [wtyczka: obsługa SMS w oparciu o SerwerSMS.pl/SMS.pl](https://github.com/chilek/lms-plus/tree/serwersms/plugins/LMSSerwerSmsPlugin/doc)
 
-[wtyczka: obsługa SMS w oparciu o SMSAPI.pl](https://github.com/chilek/lms-plus/tree/smsapi/plugins/LMSSmsApiPlugin)
+[wtyczka: obsługa SMS w oparciu o SMSAPI.pl](https://github.com/chilek/lms-plus/tree/smsapi/plugins/LMSSmsApiPlugin/doc)
 
 [wtyczka: obsługa SMS w oparciu o SMSCenter.pl](https://github.com/chilek/lms-plus/tree/smscenter/plugins/LMSSmsCenterPlugin/doc)
 
