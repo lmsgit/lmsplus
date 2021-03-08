@@ -5,6 +5,15 @@ Wszystkie dodatki przechowywane są w odrębnych gałęziach systemu kontroli we
 sprawne zarządzanie dodatkami udostępnianymi w ramach projektu poprzez wykonywanie półautomatycznych synchronizacji zachodzących zmian w kodzie. Dokumentację systemu git znajdziemy pod adresem [https://git-scm.com/doc](https://git-scm.com/doc). Uczestnicy projektu są traktowani przez opiekuna projektu LMS Plus priorytetowo i uzyskują odpowiedzi na pytania techniczne w pierwszej kolejności przed resztą społeczności internetowej. Nasze rozwiązania oparte są na kilkunastu latach doświadczeń w programowaniu w środowisku sieciowym (m.in. uczestnictwo w projektach Kadu oraz LMS). Gwarantujemy zadowolenie i najwyższą technicznie
 jakość obsługi.
 
+#### Podsumowanie korzyści
+
+1. Dostęp do kodu źródłowego wszystkich rozwiązań dostępnych w projekcie.
+1. Utrzymywane są na bieżąco wydania stabilne LMS+ (od kilku lat dwa wydania równolegle - żeby umożliwić łagodne migracje między wersjami) - obecnie są to 26.x i 25.x. Do wersji stabilnych wchodzą głównie poprawki błędów oraz krytyczne zmiany z wersji rozwojowej.
+1. Dostęp do bogatej dokumentacji w postaci wiki.
+1. Wsparcie mailowe poprzez:
+    - listę mailingową lms-plus@lists.lms.org.pl,
+    - system zgłoszeń (ang. issues) projektu w witrynie github.com.
+
 ## Dołączenie do projektu LMS Plus
 
 Zapraszamy do dołączenia do projektu LMS Plus - można to zrobić wysyłając maila na adres [biuro@chilan.com](mailto:biuro@chilan.com?subject=projekt%20LMS%20Plus) o następującej treści:
@@ -40,9 +49,11 @@ Zapraszamy do dołączenia do projektu LMS Plus - można to zrobić wysyłając 
 
 [gałąź główna (klon publicznie dostępnej gałęzi master)](https://github.com/chilek/lms-plus/tree/master)
 
-[gałąź stabilna](https://github.com/chilek/lms-plus/tree/stable) (ostatnia wersja **25.3**)
+[gałąź stabilna](https://github.com/chilek/lms-plus/tree/stable) (ostatnia wersja **26.5**)
 
-[poprzednia gałąź stabilna](https://github.com/chilek/lms-plus/tree/stable-24) (ostatnia wersja **24.32**)
+[poprzednia gałąź stabilna](https://github.com/chilek/lms-plus/tree/stable-25) (ostatnia wersja **25.28**)
+
+[poprzednia gałąź stabilna](https://github.com/chilek/lms-plus/tree/stable-24) (ostatnia wersja **24.55**)
 
 [przestarzała gałąź stabilna](https://github.com/chilek/lms-plus/tree/stable-1.11.23) (ostatnia wersja **1.11.23.32**)
 
@@ -54,9 +65,9 @@ Zapraszamy do dołączenia do projektu LMS Plus - można to zrobić wysyłając 
 
 [przestarzała gałąź stabilna](https://github.com/chilek/lms-plus/tree/stable-1.11.19) (ostatnia wersja **1.11.19.15**)
 
-[wtyczka: obsługa gpon urządzeń firmy ZTE](https://github.com/chilek/lms-plus/tree/gpon-zte) - **[zrzuty ekranu](https://github.com/lmsgit/lms/wiki/GPON-ZTE-zrzuty-ekranu)**
+[wtyczka: obsługa gpon urządzeń firmy ZTE](https://github.com/chilek/lms-plus/tree/gpon-zte/plugins/LMSGponZtePlugin/doc) - **[zrzuty ekranu](https://github.com/lmsgit/lms/wiki/GPON-ZTE-zrzuty-ekranu)**
 
-[wtyczka: obsługa gpon urządzeń firmy Dasan](https://github.com/chilek/lms-plus/tree/gpon-dasan) - **[zrzuty ekranu](https://github.com/lmsgit/lms/wiki/GPON-DASAN-zrzuty-ekranu)**
+[wtyczka: obsługa gpon urządzeń firmy Dasan](https://github.com/chilek/lms-plus/tree/gpon-dasan/plugins/LMSGponDasanPlugin/doc) - **[zrzuty ekranu](https://github.com/lmsgit/lms/wiki/GPON-DASAN-zrzuty-ekranu)**
 
 [wtyczka: obsługa platformy VoIP Hiperus C5](https://github.com/chilek/lms-plus/tree/hiperus)
 
@@ -69,6 +80,7 @@ Zapraszamy do dołączenia do projektu LMS Plus - można to zrobić wysyłając 
 [zaawansowane szablony dokumentów](https://github.com/chilek/lms-plus/tree/document-templates) - **[zrzuty ekranu](https://github.com/lmsgit/lms/wiki/CONTRACT-PROMO-zrzuty-ekranu)**:
 * [umowy promocyjne i pakietowe](https://github.com/chilek/lms-plus/tree/document-templates/documents/templates/contract-promo),
 * [wezwania do zapłaty z automatycznym naliczaniem odsetek](https://github.com/chilek/lms-plus/tree/document-templates/documents/templates/payment-summons).
+* [książeczka opłata uwzględniająca harmonogram obciążeń klienta](https://github.com/chilek/lms-plus/tree/document-templates/documents/templates/payments-booklet).
 
 [raporty WWPE do UKE](https://github.com/chilek/lms-plus/tree/uke)
 
@@ -81,6 +93,14 @@ Zapraszamy do dołączenia do projektu LMS Plus - można to zrobić wysyłając 
 [wtyczka: integracja ze speedtest.pl](https://github.com/chilek/lms-plus/tree/speedtest) - **[zrzuty ekranu](https://github.com/lmsgit/lms/wiki/SPEEDTEST-zrzuty-ekranu)**
 
 [wtyczka: statystyki w oparciu o pakiet narzędziowy RRDTOOL](https://github.com/chilek/lms-plus/tree/rrdstats) - **[zrzuty ekranu](https://github.com/lmsgit/lms/wiki/RRDSTATS-zrzuty-ekranu)**
+
+[wtyczka: obsługa SMS w oparciu o SerwerSMS.pl/SMS.pl](https://github.com/chilek/lms-plus/tree/serwersms/plugins/LMSSerwerSmsPlugin/doc)
+
+[wtyczka: obsługa SMS w oparciu o SMSAPI.pl](https://github.com/chilek/lms-plus/tree/smsapi/plugins/LMSSmsApiPlugin/doc)
+
+[wtyczka: obsługa SMS w oparciu o SMSCenter.pl](https://github.com/chilek/lms-plus/tree/smscenter/plugins/LMSSmsCenterPlugin/doc)
+
+[wtyczka: obsługa SMS w Mikrotiku](https://github.com/chilek/lms-plus/tree/mikrotik-sms/plugins/LMSMikrotikSmsPlugin/doc)
 
 [wtyczka: obsługa platformy IPTV Evio](https://github.com/chilek/lms-plus/tree/evio) - **[zrzuty ekranu](https://github.com/lmsgit/lms/wiki/EVIO-zrzuty-ekranu)**
 
