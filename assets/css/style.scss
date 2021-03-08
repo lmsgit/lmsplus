@@ -21,6 +21,7 @@ section {
   @media print, screen and (max-width: 960px) {
     margin-left: 0;
     border: 1px solid $superdark;
+    border-width: 1px 0;
   }
 }
 
