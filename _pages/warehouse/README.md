@@ -1,3 +1,7 @@
+---
+layout: page
+---
+
 # Podręcznik użytkownika pluginu "Warehouse"
 
 ###### Dokumentacja oparta na pluginie w wersji 1.9.1

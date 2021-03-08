@@ -3,7 +3,7 @@ logo: /assets/img/logo.png
 theme: jekyll-theme-minimal
 include: ['_pages']
 page_excerpts: true
-permalink: /warehouse/
+permalink: /warehouse/:path/
 
 github:
   is_project_page: false
