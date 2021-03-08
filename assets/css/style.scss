@@ -20,7 +20,7 @@ section {
   margin-left: 300px;
   @media print, screen and (max-width: 960px) {
     margin-left: 0;
-    border-color: $superdark;
+    border: 1px solid $superdark;
   }
 }
 
