@@ -28,6 +28,7 @@ defaults:
        path: "wiki"
      values:
        permalink: /:basename
+       layout: default
 
 github:
   is_project_page: false
