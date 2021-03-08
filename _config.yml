@@ -20,6 +20,7 @@ wiki_folder: "wiki"
 # (boolean) if you're using github wiki as submodule then this config
 # must be enabled to allow tool buttons to work properly
 use_github_wiki: false
+timezone: "Europe/Warsaw"
 
 defaults:
   -
