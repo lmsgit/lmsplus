@@ -1,13 +1,13 @@
 title: LMS Plus / LMS+
 logo: /assets/img/logo.png
 theme: jekyll-theme-minimal
-#include: ['_pages']
+include: ['_warehouse']
 page_excerpts: true
 
 collections:
-  pages:
+  warehouse:
     output: true
-    permalink: /warehouse/:path/
+    permalink: /:path
 
 github:
   is_project_page: false
