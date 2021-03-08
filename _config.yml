@@ -28,6 +28,11 @@ defaults:
        path: "wiki"
      values:
        permalink: /:basename
+  -
+     scope:
+       path: "wiki/warehouse/docinclude"
+     values:
+       permalink: /:basename
 
 github:
   is_project_page: false
