@@ -3,6 +3,15 @@
 
 @import "{{ site.theme }}";
 
+.wrapper {
+  width: auto;
+}
+
+.section {
+  width: auto;
+  margin-left: 300px;
+}
+
 $superlight: #F4F0EC;
 $lucid: #EBE4D6;
 $light: #DFD5BD;
