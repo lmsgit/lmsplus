@@ -3,6 +3,14 @@
 
 @import "{{ site.theme }}";
 
+$superlight: #F4F0EC;
+$lucid: #EBE4D6;
+$light: #DFD5BD;
+$dark: #CEBD9B;
+$superdark: #B6A688;
+$extradark: #946d23;
+$text-color: black;
+
 .wrapper {
   width: auto;
 }
@@ -12,16 +20,9 @@ section {
   margin-left: 300px;
   @media print, screen and (max-width: 960px) {
     margin-left: 0;
+    border-color: $superdark;
   }
 }
-
-$superlight: #F4F0EC;
-$lucid: #EBE4D6;
-$light: #DFD5BD;
-$dark: #CEBD9B;
-$superdark: #B6A688;
-$extradark: #946d23;
-$text-color: black;
 
 body {
   background-color: $light;
