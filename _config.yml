@@ -7,7 +7,6 @@ defaults:
   -
      scope:
        path: "wiki"
-       type: "pages"
      values:
        permalink: /:basename
 
