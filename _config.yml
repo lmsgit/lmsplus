@@ -9,7 +9,7 @@ defaults:
        path: "wiki"
        type: "pages"
      values:
-       permalink: /:path/:basename
+       permalink: /:basename
 
 github:
   is_project_page: false
