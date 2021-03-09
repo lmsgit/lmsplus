@@ -7,8 +7,9 @@ defaults:
   -
      scope:
        path: "wiki"
+       type: "pages"
      values:
-       permalink: /:basename
+       permalink: /:path/:basename
 
 github:
   is_project_page: false
