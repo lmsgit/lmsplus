@@ -18,7 +18,7 @@ W dokumentacji będą używane następujące akronimy:
 
 ### Konfiguracja wstępna
 
-#### [Konfiguracja wstępna](docinclude/konfiguracja.md)
+#### [Konfiguracja wstępna](/wiki/warehouse/docinclude/konfiguracja.md)
 
 #### [Bilans otwarcia (BO)](docinclude/bilans_otwarcia.md)
 
