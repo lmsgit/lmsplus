@@ -8,7 +8,7 @@ Produkt można traktować jako opis cech towaru, tzw. kartę towaru.
 
 ![](https://www.chilan.com/lms-plus/screenshots/warehouse/wh-9.png)
 
-Istnienie produktu w katalogu stanowi pewnego rodzaju deklarację z naszej strony, że produkt będziemy chcieli ewidencjonować. To, że produkt znajduje się w katalogu produktów nie oznacza, że podlega ewidencji. Podlegać jej zaczyna dopiero kiedy zostanie wprowadzony na magazyn dokumentem przyjęcia. Wtedy jego określona ilość, po określonej cenie, zostaje dodana do określonego magazynu. Wtedy też może być poddany kolejnym procesom magazynowym.
+Istnienie produktu w katalogu stanowi pewnego rodzaju deklarację z naszej strony, że produkt będziemy chcieli ewidencjonować. To, że produkt znajduje się w katalogu produktów nie oznacza, że podlega ewidencji. Podlegać jej zaczyna dopiero kiedy zostanie wprowadzony na magazyn dokumentem przyjęcia (PZ lub BO). Wtedy jego określona ilość, po określonej cenie, zostaje dodana do określonego magazynu. Wtedy też może być poddany kolejnym procesom magazynowym.
 
 W magazynie możemy wyróżnić dwa typy produktów:
 - produkt z egzemplarzami
@@ -17,6 +17,10 @@ W magazynie możemy wyróżnić dwa typy produktów:
 Dodatkowo produkt może być:
 - powiązany z osprzętem sieciowym
 - niepowiązany z osprzętem sieciowym
+
+**Uwaga!**
+- Jeśli podczas tworzenia pierwszego dokumentu przyjęcia (PZ lub BO) produkt nie miał przypisanych egzemplarzy, to ten produkt przez cały czas użytkowania w magazynie będzie widziany jako produkt bez egzemplarzy,
+- Jeśli podczas tworzenia pierwszego dokumentu przyjęcia (PZ lub BO) produkt miał przypisane egzemplarze, to ten produkt przez cały czas użytkowania w magazynie będzie widziany jako produkt z egzemplarzami.
 
 ##### Produkty powiązane z osprzętem sieciowym (produkty z egzemplarzami)
 

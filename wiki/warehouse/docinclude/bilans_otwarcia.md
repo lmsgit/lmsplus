@@ -15,6 +15,10 @@ Dokument PZ (w odróżnieniu oz BO) wymaga podania dostawcy. Jeśli bilans otwar
 
 W tej instrukcji posłużymy się dokumentem BO natomiast sposób tworzenia dokumentu PZ opisany jest tutaj [Przyjęcie zewnętrzne (PZ)](dokument_pz.md)
 
+**Uwaga!**
+- Jeśli podczas tworzenia pierwszego dokumentu przyjęcia BO produkt nie miał przypisanych egzemplarzy, to ten produkt przez cały czas użytkowania w magazynie będzie widziany jako produkt bez egzemplarzy,
+- Jeśli podczas tworzenia pierwszego dokumentu przyjęcia BO produkt miał przypisane egzemplarze, to ten produkt przez cały czas użytkowania w magazynie będzie widziany jako produkt z egzemplarzami.
+
 ##### Tworzenie BO.
 
 Plugin "Warehouse" umożliwia każdej firmie występującej w LMS prowadzenie własnej ewidencji magazynowej dlatego każda firma w LMS powinna stworzyć własny dokument BO.

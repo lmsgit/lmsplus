@@ -20,6 +20,8 @@ W dokumentacji będą używane następujące akronimy:
 
 #### [Konfiguracja wstępna](docinclude/konfiguracja.md)
 
+#### [Katalog produktów](docinclude/produkt_wyjasnienie.md)
+
 #### [Bilans otwarcia (BO)](docinclude/bilans_otwarcia.md)
 
 #### [Przyjęcie zewnętrzne (PZ)](docinclude/dokument_pz.md)
@@ -92,8 +94,6 @@ Integracja WZ z modułem finansowym pozwala na:
 #### [Synchronizacja masowa](docinclude/synchronizacja_masowa.md)
 
 #### [Synchronizacja selektywna](docinclude/synchronizacja_selektywna.md)
-
-#### [Katalog produktów](docinclude/produkt_wyjasnienie.md)
 
 #### [Tworzenie produktu bez egzemplarzy](docinclude/produkt_bez_egz.md)
 

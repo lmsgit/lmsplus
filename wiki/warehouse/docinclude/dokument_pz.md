@@ -2,6 +2,10 @@
 
 Przyjęcia towaru dokonujemy z wykorzystaniem dokumentu magazynowego PZ (przyjęcie zewnętrzne). Produkty możemy wprowadzić na dowolny magazyn firmy. Należy pamiętać o nadaniu odpowiednich uprawnień dla użytkownika, który dokonuje przyjęcia produktów ([Uprawnienia](uprawnienia.md)).
 
+**Uwaga!**
+- Jeśli podczas tworzenia pierwszego dokumentu przyjęcia PZ produkt nie miał przypisanych egzemplarzy, to ten produkt przez cały czas użytkowania w magazynie będzie widziany jako produkt bez egzemplarzy,
+- Jeśli podczas tworzenia pierwszego dokumentu przyjęcia PZ produkt miał przypisane egzemplarze, to ten produkt przez cały czas użytkowania w magazynie będzie widziany jako produkt z egzemplarzami.
+
 Na potrzeby instrukcji zakładamy, że:
 - Kupiliśmy produkty i otrzymaliśmy fakturę zakupu FV/1/2020 od dostawcy 'ARBUCKLE' na łączną wartość netto 2055 zł netto.
 - Towar od sprzedawcy otrzymaliśmy w dniu 20/04/2020.
