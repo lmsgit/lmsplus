@@ -49,11 +49,11 @@ Zapraszamy do dołączenia do projektu LMS Plus - można to zrobić wysyłając 
 
 [gałąź główna (klon publicznie dostępnej gałęzi master)](https://github.com/chilek/lms-plus/tree/master)
 
-[gałąź stabilna](https://github.com/chilek/lms-plus/tree/stable) (ostatnia wersja **26.5**)
+[gałąź stabilna](https://github.com/chilek/lms-plus/tree/stable) (ostatnia wersja **26.36**)
 
-[poprzednia gałąź stabilna](https://github.com/chilek/lms-plus/tree/stable-25) (ostatnia wersja **25.28**)
+[poprzednia gałąź stabilna](https://github.com/chilek/lms-plus/tree/stable-25) (ostatnia wersja **25.59**)
 
-[poprzednia gałąź stabilna](https://github.com/chilek/lms-plus/tree/stable-24) (ostatnia wersja **24.55**)
+[poprzednia gałąź stabilna](https://github.com/chilek/lms-plus/tree/stable-24) (ostatnia wersja **24.86**)
 
 [przestarzała gałąź stabilna](https://github.com/chilek/lms-plus/tree/stable-1.11.23) (ostatnia wersja **1.11.23.32**)
 
@@ -65,34 +65,34 @@ Zapraszamy do dołączenia do projektu LMS Plus - można to zrobić wysyłając 
 
 [przestarzała gałąź stabilna](https://github.com/chilek/lms-plus/tree/stable-1.11.19) (ostatnia wersja **1.11.19.15**)
 
-[wtyczka: obsługa gpon urządzeń firmy ZTE](https://github.com/chilek/lms-plus/tree/gpon-zte/plugins/LMSGponZtePlugin/doc) - **[zrzuty ekranu](https://github.com/lmsgit/lms/wiki/GPON-ZTE-zrzuty-ekranu)**
+[wtyczka: obsługa gpon urządzeń firmy ZTE](https://github.com/chilek/lms-plus/tree/gpon-zte/plugins/LMSGponZtePlugin/doc) - **[zrzuty ekranu](https://github.com/chilek/lms/wiki/GPON-ZTE-zrzuty-ekranu)**
 
-[wtyczka: obsługa gpon urządzeń firmy Dasan](https://github.com/chilek/lms-plus/tree/gpon-dasan/plugins/LMSGponDasanPlugin/doc) - **[zrzuty ekranu](https://github.com/lmsgit/lms/wiki/GPON-DASAN-zrzuty-ekranu)**
+[wtyczka: obsługa gpon urządzeń firmy Dasan](https://github.com/chilek/lms-plus/tree/gpon-dasan/plugins/LMSGponDasanPlugin/doc) - **[zrzuty ekranu](https://github.com/chilek/lms/wiki/GPON-DASAN-zrzuty-ekranu)**
 
 [wtyczka: obsługa platformy VoIP Hiperus C5](https://github.com/chilek/lms-plus/tree/hiperus)
 
 [wtyczka: obsługa platformy VoIP Adescom](https://github.com/chilek/lms-plus/tree/adescom)
 
-[wtyczka: obsługa platformy IPTV Jambox](https://github.com/chilek/lms-plus/tree/jambox) - **[zrzuty ekranu](https://github.com/lmsgit/lms/wiki/JAMBOX-zrzuty-ekranu)**
+[wtyczka: obsługa platformy IPTV Jambox](https://github.com/chilek/lms-plus/tree/jambox) - **[zrzuty ekranu](https://github.com/chilek/lms/wiki/JAMBOX-zrzuty-ekranu)**
 
 [wtyczka: obsługa platformy Nettelekom](https://github.com/chilek/lms-plus/tree/nettelekom)
 
-[zaawansowane szablony dokumentów](https://github.com/chilek/lms-plus/tree/document-templates) - **[zrzuty ekranu](https://github.com/lmsgit/lms/wiki/CONTRACT-PROMO-zrzuty-ekranu)**:
+[zaawansowane szablony dokumentów](https://github.com/chilek/lms-plus/tree/document-templates) - **[zrzuty ekranu](https://github.com/chilek/lms/wiki/CONTRACT-PROMO-zrzuty-ekranu)**:
 * [umowy promocyjne i pakietowe](https://github.com/chilek/lms-plus/tree/document-templates/documents/templates/contract-promo),
 * [wezwania do zapłaty z automatycznym naliczaniem odsetek](https://github.com/chilek/lms-plus/tree/document-templates/documents/templates/payment-summons).
 * [książeczka opłata uwzględniająca harmonogram obciążeń klienta](https://github.com/chilek/lms-plus/tree/document-templates/documents/templates/payments-booklet).
 
 [raporty WWPE do UKE](https://github.com/chilek/lms-plus/tree/uke)
 
-[wtyczka: obsługa magazynu (stara edycja)](https://github.com/chilek/lms-plus/tree/stock) - **[zrzuty ekranu](https://github.com/lmsgit/lms/wiki/STOCK-zrzuty-ekranu)**
+[wtyczka: obsługa magazynu (stara edycja)](https://github.com/chilek/lms-plus/tree/stock) - **[zrzuty ekranu](https://github.com/chilek/lms/wiki/STOCK-zrzuty-ekranu)**
 
 [wtyczka: obsługa magazynu (nowa edycja)](https://github.com/chilek/lms-plus/tree/warehouse)
 
-[wtyczka: integracja z systemem PLICBD2](https://github.com/chilek/lms-plus/tree/plicbd) - **[zrzuty ekranu](https://github.com/lmsgit/lms/wiki/PLICBD-zrzuty-ekranu)**
+[wtyczka: integracja z systemem PLICBD2](https://github.com/chilek/lms-plus/tree/plicbd) - **[zrzuty ekranu](https://github.com/chilek/lms/wiki/PLICBD-zrzuty-ekranu)**
 
-[wtyczka: integracja ze speedtest.pl](https://github.com/chilek/lms-plus/tree/speedtest) - **[zrzuty ekranu](https://github.com/lmsgit/lms/wiki/SPEEDTEST-zrzuty-ekranu)**
+[wtyczka: integracja ze speedtest.pl](https://github.com/chilek/lms-plus/tree/speedtest) - **[zrzuty ekranu](https://github.com/chilek/lms/wiki/SPEEDTEST-zrzuty-ekranu)**
 
-[wtyczka: statystyki w oparciu o pakiet narzędziowy RRDTOOL](https://github.com/chilek/lms-plus/tree/rrdstats) - **[zrzuty ekranu](https://github.com/lmsgit/lms/wiki/RRDSTATS-zrzuty-ekranu)**
+[wtyczka: statystyki w oparciu o pakiet narzędziowy RRDTOOL](https://github.com/chilek/lms-plus/tree/rrdstats) - **[zrzuty ekranu](https://github.com/chilek/lms/wiki/RRDSTATS-zrzuty-ekranu)**
 
 [wtyczka: obsługa SMS w oparciu o SerwerSMS.pl/SMS.pl](https://github.com/chilek/lms-plus/tree/serwersms/plugins/LMSSerwerSmsPlugin/doc)
 
@@ -102,7 +102,7 @@ Zapraszamy do dołączenia do projektu LMS Plus - można to zrobić wysyłając 
 
 [wtyczka: obsługa SMS w Mikrotiku](https://github.com/chilek/lms-plus/tree/mikrotik-sms/plugins/LMSMikrotikSmsPlugin/doc)
 
-[wtyczka: obsługa platformy IPTV Evio](https://github.com/chilek/lms-plus/tree/evio) - **[zrzuty ekranu](https://github.com/lmsgit/lms/wiki/EVIO-zrzuty-ekranu)**
+[wtyczka: obsługa platformy IPTV Evio](https://github.com/chilek/lms-plus/tree/evio) - **[zrzuty ekranu](https://github.com/chilek/lms/wiki/EVIO-zrzuty-ekranu)**
 
 [wtyczka: eksport danych finansowych do formatu XML programu CDN Optima](https://github.com/chilek/lms-plus/tree/optima)
 
@@ -118,7 +118,7 @@ Zapraszamy do dołączenia do projektu LMS Plus - można to zrobić wysyłając 
 
 [wtyczka: zarządzanie licencjami GData klientów](https://github.com/chilek/lms-plus/tree/gdata)
 
-[wtyczka: obsługa podpisów biometrycznych dokumentów w oparciu o usługę Signatus firmy Infinite](https://github.com/chilek/lms-plus/tree/signatus) - **[zrzuty ekranu](https://github.com/lmsgit/lms/wiki/SIGNATUS-zrzuty-ekranu)**
+[wtyczka: obsługa podpisów biometrycznych dokumentów w oparciu o usługę Signatus firmy Infinite](https://github.com/chilek/lms-plus/tree/signatus) - **[zrzuty ekranu](https://github.com/chilek/lms/wiki/SIGNATUS-zrzuty-ekranu)**
 
 Uwaga! Dziennik/archiwum transakcji został już zintegrowany z publicznie dostępną gałęzią LMS.
 
