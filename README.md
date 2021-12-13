@@ -47,8 +47,8 @@ Zapraszamy do dołączenia do projektu LMS Plus - można to zrobić wysyłając 
 
 * system operacyjny RHEL 8 lub zgodny z nim binarnie (CentOS, RockyLinux, AlmaLinux),
 * baza danych PostgreSQL 10 lub wyższa,
-* Serwer WWW Apache 2.4,
-* PHP 7.2 lub wyższa - preferowana wersja to 7.4.
+* Serwer WWW Apache w wersji 2.4,
+* PHP w wersji 7.2 - preferowana wersja to 7.4.
 
 ## Spis gałęzi repozytorium projektu LMS Plus
 
