@@ -43,19 +43,26 @@ Zapraszamy do dołączenia do projektu LMS Plus - można to zrobić wysyłając 
  git clone git@github.com:chilek/lms-plus.git lms
  ```
 
+## Wymagania LMS Plus
+
+* system operacyjny RHEL 8 lub zgodny z nim binarnie (CentOS, RockyLinux, AlmaLinux),
+* baza danych PostgreSQL 10 lub wyższa,
+* Serwer WWW Apache 2.4,
+* PHP 7.2 lub wyższa - preferowana wersja to 7.4.
+
 ## Spis gałęzi repozytorium projektu LMS Plus
 
 **Uwaga: linki poniżej są dostępne wyłącznie dla uczestników projektu!**
 
 [gałąź główna (klon publicznie dostępnej gałęzi master)](https://github.com/chilek/lms-plus/tree/master)
 
-[gałąź stabilna](https://github.com/chilek/lms-plus/tree/stable) (ostatnia wersja **27.7**)
+[gałąź stabilna](https://github.com/chilek/lms-plus/tree/stable) (ostatnia wersja **27.11**)
 
-[poprzednia gałąź stabilna](https://github.com/chilek/lms-plus/tree/stable-26) (ostatnia wersja **26.43**)
+[poprzednia gałąź stabilna](https://github.com/chilek/lms-plus/tree/stable-26) (ostatnia wersja **26.46**)
 
-[poprzednia gałąź stabilna](https://github.com/chilek/lms-plus/tree/stable-25) (ostatnia wersja **25.66**)
+[poprzednia gałąź stabilna](https://github.com/chilek/lms-plus/tree/stable-25) (ostatnia wersja **25.68**)
 
-[poprzednia gałąź stabilna](https://github.com/chilek/lms-plus/tree/stable-24) (ostatnia wersja **24.93**)
+[poprzednia gałąź stabilna](https://github.com/chilek/lms-plus/tree/stable-24) (ostatnia wersja **24.95**)
 
 [przestarzała gałąź stabilna](https://github.com/chilek/lms-plus/tree/stable-1.11.23) (ostatnia wersja **1.11.23.32**)
 
