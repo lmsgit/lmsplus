@@ -8,7 +8,7 @@ jakość obsługi.
 #### Podsumowanie korzyści
 
 1. Dostęp do kodu źródłowego wszystkich rozwiązań dostępnych w projekcie.
-1. Utrzymywane są na bieżąco wydania stabilne LMS+ (od kilku lat dwa wydania równolegle - żeby umożliwić łagodne migracje między wersjami) - obecnie są to 26.x i 25.x. Do wersji stabilnych wchodzą głównie poprawki błędów oraz krytyczne zmiany z wersji rozwojowej.
+1. Utrzymywane są na bieżąco wydania stabilne LMS+ (od kilku lat dwa wydania równolegle - żeby umożliwić łagodne migracje między wersjami) - obecnie są to 27.x, 26.x, 25.x i 24.x. Do wersji stabilnych wchodzą głównie poprawki błędów oraz krytyczne zmiany z wersji rozwojowej.
 1. Dostęp do bogatej dokumentacji w postaci wiki.
 1. Wsparcie mailowe poprzez:
     - listę mailingową lms-plus@lists.lms.org.pl,
