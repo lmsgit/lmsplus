@@ -38,7 +38,7 @@ Zapraszamy do dołączenia do projektu LMS Plus - można to zrobić wysyłając 
         IdentityFile /katalog_domowy_użytkownika/.ssh/nazwa_pliku_z_kluczem_prywatnym
     ```
 
-    Opcją **IdentifyFile** należy wskazać ścieżkę do pliku zawierającego klucz prywatny spośród pary wygenerowanych w **punkcie 1** kluczy.
+    Opcją **IdentityFile** należy wskazać ścieżkę do pliku zawierającego klucz prywatny spośród pary wygenerowanych w **punkcie 1** kluczy.
  
 1. Wykonać lokalną kopię repozytorium dla gałęzi master w lokalnym katalogu lms:
 
