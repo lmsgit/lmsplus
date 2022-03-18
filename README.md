@@ -17,31 +17,34 @@ jakość obsługi.
 ## Dołączenie do projektu LMS Plus
 
 Zapraszamy do dołączenia do projektu LMS Plus - można to zrobić wysyłając maila na adres [biuro@chilan.com](mailto:biuro@chilan.com?subject=projekt%20LMS%20Plus) o następującej treści:
- 1. Dane firmy do wystawianych faktur.
- 2. Adres e-mail na który będą automatycznie wysyłane faktury.
- 3. Adres e-mail do zapisania na listę mailingową LMS Plus.
- 4. Nazwa konta w systemie github.com (konto trzeba utworzyć samodzielnie).
- 5. Załączony skan podpisanego i przypieczętowanego regulaminu projektu dostępnego poniżej.
+1. Dane firmy do wystawianych faktur.
+1. Adres e-mail na który będą automatycznie wysyłane faktury.
+1. Adres e-mail do zapisania na listę mailingową LMS Plus.
+1. Nazwa konta w systemie github.com (konto trzeba utworzyć samodzielnie).
+1. Załączony skan podpisanego i przypieczętowanego regulaminu projektu dostępnego poniżej:
 
-[Regulamin projektu LMS Plus](/assets/files/lms-plus-regulamin.pdf)
+    [Regulamin projektu LMS Plus](/assets/files/lms-plus-regulamin.pdf)
 
 ## Dostęp do repozytorium projektu LMS Plus
 
- 1. [Przygotować parę kluczy ssh umożliwiających dostęp do repozytorium](https://help.github.com/articles/generating-ssh-keys/).
- 2. Dla wygody warto dopisać informacje o dostępie ssh do github w lokalnym pliku **~/.ssh/config**:
+1. [Przygotować parę kluczy ssh umożliwiających dostęp do repozytorium](https://help.github.com/articles/generating-ssh-keys/). Wygenerowane klucze służą skonfigurowaniu wygodnego dostępu SSH do własnego konta subskrybenta w serwisie **github.com**. Nie należy ich nam przesyłać!
+1. Dla wygody warto dopisać informacje o dostępie ssh do github w lokalnym pliku **~/.ssh/config**:
 
- ```
- Host github.com
+    ```
+    Host github.com
         User git
         Hostname github.com
         PreferredAuthentications publickey
         IdentityFile /katalog_domowy_użytkownika/.ssh/nazwa_pliku_z_kluczem_prywatnym
- ```
- 3. Wykonać lokalną kopię repozytorium dla gałęzi master w lokalnym katalogu lms:
+    ```
 
- ```bash
- git clone git@github.com:chilek/lms-plus.git lms
- ```
+    Opcją **IdentifyFile** należy wskazać ścieżkę do pliku zawierającego klucz prywatny spośród pary wygenerowanych w **punkcie 1** kluczy.
+ 
+1. Wykonać lokalną kopię repozytorium dla gałęzi master w lokalnym katalogu lms:
+
+    ```bash
+    git clone git@github.com:chilek/lms-plus.git lms
+    ```
 
 ## Wymagania LMS Plus
 
