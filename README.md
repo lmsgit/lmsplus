@@ -59,13 +59,13 @@ Zapraszamy do dołączenia do projektu LMS Plus - można to zrobić wysyłając 
 
 [gałąź główna (klon publicznie dostępnej gałęzi master)](https://github.com/chilek/lms-plus/tree/master)
 
-[gałąź stabilna](https://github.com/chilek/lms-plus/tree/stable) (ostatnia wersja **27.24**)
+[gałąź stabilna](https://github.com/chilek/lms-plus/tree/stable) (ostatnia wersja **27.25**)
 
-[poprzednia gałąź stabilna](https://github.com/chilek/lms-plus/tree/stable-26) (ostatnia wersja **26.58**)
+[poprzednia gałąź stabilna](https://github.com/chilek/lms-plus/tree/stable-26) (ostatnia wersja **26.59**)
 
-[poprzednia gałąź stabilna](https://github.com/chilek/lms-plus/tree/stable-25) (ostatnia wersja **25.80**)
+[poprzednia gałąź stabilna](https://github.com/chilek/lms-plus/tree/stable-25) (ostatnia wersja **25.81**)
 
-[poprzednia gałąź stabilna](https://github.com/chilek/lms-plus/tree/stable-24) (ostatnia wersja **24.107**)
+[poprzednia gałąź stabilna](https://github.com/chilek/lms-plus/tree/stable-24) (ostatnia wersja **24.108**)
 
 [przestarzała gałąź stabilna](https://github.com/chilek/lms-plus/tree/stable-1.11.23) (ostatnia wersja **1.11.23.32**)
 
