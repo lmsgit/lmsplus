@@ -92,7 +92,7 @@ Zapraszamy do dołączenia do projektu LMS Plus - można to zrobić wysyłając 
 [zaawansowane szablony dokumentów](https://github.com/chilek/lms-plus/tree/document-templates) - **[zrzuty ekranu](https://github.com/chilek/lms/wiki/CONTRACT-PROMO-zrzuty-ekranu)**:
 * [umowy promocyjne i pakietowe](https://github.com/chilek/lms-plus/tree/document-templates/documents/templates/contract-promo),
 * [wezwania do zapłaty z automatycznym naliczaniem odsetek](https://github.com/chilek/lms-plus/tree/document-templates/documents/templates/payment-summons).
-* [książeczka opłata uwzględniająca harmonogram obciążeń klienta](https://github.com/chilek/lms-plus/tree/document-templates/documents/templates/payments-booklet).
+* [książeczka opłat uwzględniająca harmonogram obciążeń klienta](https://github.com/chilek/lms-plus/tree/document-templates/documents/templates/payment-booklet).
 
 [raporty WWPE do UKE](https://github.com/chilek/lms-plus/tree/uke)
 
