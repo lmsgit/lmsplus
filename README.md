@@ -8,7 +8,7 @@ jakość obsługi.
 #### Podsumowanie korzyści
 
 1. Dostęp do kodu źródłowego wszystkich rozwiązań dostępnych w projekcie.
-1. Utrzymywane są na bieżąco wydania stabilne LMS+ (od kilku lat dwa wydania równolegle - żeby umożliwić łagodne migracje między wersjami) - obecnie są to 26.x i 25.x. Do wersji stabilnych wchodzą głównie poprawki błędów oraz krytyczne zmiany z wersji rozwojowej.
+1. Utrzymywane są na bieżąco wydania stabilne LMS+ (od kilku lat dwa wydania równolegle - żeby umożliwić łagodne migracje między wersjami) - obecnie są to 27.x, 26.x, 25.x i 24.x. Do wersji stabilnych wchodzą głównie poprawki błędów oraz krytyczne zmiany z wersji rozwojowej.
 1. Dostęp do bogatej dokumentacji w postaci wiki.
 1. Wsparcie mailowe poprzez:
     - listę mailingową lms-plus@lists.lms.org.pl,
@@ -17,31 +17,41 @@ jakość obsługi.
 ## Dołączenie do projektu LMS Plus
 
 Zapraszamy do dołączenia do projektu LMS Plus - można to zrobić wysyłając maila na adres [biuro@chilan.com](mailto:biuro@chilan.com?subject=projekt%20LMS%20Plus) o następującej treści:
- 1. Dane firmy do wystawianych faktur.
- 2. Adres email na który będą automatycznie wysyłane faktury.
- 3. Adres email do zapisania na listę mailingową LMS Plus.
- 4. Nazwa konta w systemie github.com (konto trzeba utworzyć samodzielnie).
- 5. Załączony skan podpisanego i przypieczętowanego regulaminu projektu dostępnego poniżej.
+1. Dane firmy do wystawianych faktur.
+1. Adres e-mail na który będą automatycznie wysyłane faktury.
+1. Adres e-mail do zapisania na listę mailingową LMS Plus.
+1. Nazwa konta w systemie github.com (konto trzeba utworzyć samodzielnie).
+1. Załączony skan podpisanego i przypieczętowanego regulaminu projektu dostępnego poniżej:
 
-[Regulamin projektu LMS Plus](/assets/files/lms-plus-regulamin.pdf)
+    [Regulamin projektu LMS Plus](/assets/files/lms-plus-regulamin.pdf)
 
 ## Dostęp do repozytorium projektu LMS Plus
 
- 1. [Przygotować parę kluczy ssh umożliwiających dostęp do repozytorium](https://help.github.com/articles/generating-ssh-keys/).
- 2. Dla wygody warto dopisać informacje o dostępie ssh do github w lokalnym pliku **~/.ssh/config**:
+1. [Przygotować parę kluczy ssh umożliwiających dostęp do repozytorium](https://help.github.com/articles/generating-ssh-keys/). Wygenerowane klucze służą skonfigurowaniu wygodnego dostępu SSH do własnego konta subskrybenta w serwisie **github.com**. Nie należy ich nam przesyłać!
+1. Dla wygody warto dopisać informacje o dostępie ssh do github w lokalnym pliku **~/.ssh/config**:
 
- ```
- Host github.com
+    ```
+    Host github.com
         User git
         Hostname github.com
         PreferredAuthentications publickey
         IdentityFile /katalog_domowy_użytkownika/.ssh/nazwa_pliku_z_kluczem_prywatnym
- ```
- 3. Wykonać lokalną kopię repozytorium dla gałęzi master w lokalnym katalogu lms:
+    ```
 
- ```bash
- git clone git@github.com:chilek/lms-plus.git lms
- ```
+    Opcją **IdentityFile** należy wskazać ścieżkę do pliku zawierającego klucz prywatny spośród pary wygenerowanych w **punkcie 1** kluczy.
+ 
+1. Wykonać lokalną kopię repozytorium dla gałęzi master w lokalnym katalogu lms:
+
+    ```bash
+    git clone git@github.com:chilek/lms-plus.git lms
+    ```
+
+## Wymagania LMS Plus
+
+* system operacyjny RHEL 8 lub zgodny z nim binarnie (CentOS, RockyLinux, AlmaLinux),
+* baza danych PostgreSQL 10 lub wyższa,
+* Serwer WWW Apache w wersji 2.4,
+* PHP w wersji 7.2 - preferowana wersja to 7.4.
 
 ## Spis gałęzi repozytorium projektu LMS Plus
 
@@ -49,11 +59,13 @@ Zapraszamy do dołączenia do projektu LMS Plus - można to zrobić wysyłając 
 
 [gałąź główna (klon publicznie dostępnej gałęzi master)](https://github.com/chilek/lms-plus/tree/master)
 
-[gałąź stabilna](https://github.com/chilek/lms-plus/tree/stable) (ostatnia wersja **26.36**)
+[gałąź stabilna](https://github.com/chilek/lms-plus/tree/stable) (ostatnia wersja **27.30**)
 
-[poprzednia gałąź stabilna](https://github.com/chilek/lms-plus/tree/stable-25) (ostatnia wersja **25.59**)
+[poprzednia gałąź stabilna](https://github.com/chilek/lms-plus/tree/stable-26) (ostatnia wersja **26.63**)
 
-[poprzednia gałąź stabilna](https://github.com/chilek/lms-plus/tree/stable-24) (ostatnia wersja **24.86**)
+[poprzednia gałąź stabilna](https://github.com/chilek/lms-plus/tree/stable-25) (ostatnia wersja **25.85**)
+
+[poprzednia gałąź stabilna](https://github.com/chilek/lms-plus/tree/stable-24) (ostatnia wersja **24.112**)
 
 [przestarzała gałąź stabilna](https://github.com/chilek/lms-plus/tree/stable-1.11.23) (ostatnia wersja **1.11.23.32**)
 
@@ -79,8 +91,9 @@ Zapraszamy do dołączenia do projektu LMS Plus - można to zrobić wysyłając 
 
 [zaawansowane szablony dokumentów](https://github.com/chilek/lms-plus/tree/document-templates) - **[zrzuty ekranu](https://github.com/chilek/lms/wiki/CONTRACT-PROMO-zrzuty-ekranu)**:
 * [umowy promocyjne i pakietowe](https://github.com/chilek/lms-plus/tree/document-templates/documents/templates/contract-promo),
-* [wezwania do zapłaty z automatycznym naliczaniem odsetek](https://github.com/chilek/lms-plus/tree/document-templates/documents/templates/payment-summons).
-* [książeczka opłata uwzględniająca harmonogram obciążeń klienta](https://github.com/chilek/lms-plus/tree/document-templates/documents/templates/payments-booklet).
+* [wezwania do zapłaty z automatycznym naliczaniem odsetek](https://github.com/chilek/lms-plus/tree/document-templates/documents/templates/payment-summons),
+* [książeczka opłat uwzględniająca harmonogram obciążeń klienta](https://github.com/chilek/lms-plus/tree/document-templates/documents/templates/payment-booklet),
+* [biling telefoniczny](https://github.com/chilek/lms-plus/tree/document-templates/documents/templates/billing).
 
 [raporty WWPE do UKE](https://github.com/chilek/lms-plus/tree/uke)
 
@@ -99,6 +112,8 @@ Zapraszamy do dołączenia do projektu LMS Plus - można to zrobić wysyłając 
 [wtyczka: obsługa SMS w oparciu o SMSAPI.pl](https://github.com/chilek/lms-plus/tree/smsapi/plugins/LMSSmsApiPlugin/doc)
 
 [wtyczka: obsługa SMS w oparciu o SMSCenter.pl](https://github.com/chilek/lms-plus/tree/smscenter/plugins/LMSSmsCenterPlugin/doc)
+
+[wtyczka: obsługa SMS w oparciu o CallAPI.pl](https://github.com/chilek/lms-plus/tree/callapi/plugins/LMSCallApiPlugin/doc)
 
 [wtyczka: obsługa SMS w Mikrotiku](https://github.com/chilek/lms-plus/tree/mikrotik-sms/plugins/LMSMikrotikSmsPlugin/doc)
 
