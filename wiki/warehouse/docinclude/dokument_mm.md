@@ -45,7 +45,7 @@ W sekcji 'Dodaj pozycję do dokumentu' wybieramy produkt 'H665G'. Ponieważ jest
 
 ![](https://www.chilan.com/lms-plus/screenshots/warehouse/wh-120.png)
 
-Klikamy ikonkę 'Zapisz' na końcu wiersza aby dodać pozycję do dokumentu.
+Klikamy ikonkę 'Zapisz' na końcu wiersza, aby dodać pozycję do dokumentu.
 
 Powtarzamy czynność dla produktu 'H665G'.
 
@@ -59,7 +59,7 @@ W wyniku otrzymujemy:
 
 Dokument MM może podlegać wielokrotnym zmianom. Dokument jest dostępny do edycji do momentu jego zatwierdzenia.
 
-Może zaistnieć sytuacja, że podczas dodawania egzemplarza wybierzemy niewłaściwy. W takim przypadku należy wyedytować pozycję dokumentu, usunąć zły egzemplarz i dodać właściwy.
+Może zaistnieć sytuacja, że podczas dodawania egzemplarza wybierzemy niewłaściwy. W takim przypadku należy edytować pozycję dokumentu, usunąć zły egzemplarz i dodać właściwy.
 
 ![](https://www.chilan.com/lms-plus/screenshots/warehouse/wh-122.png)
 

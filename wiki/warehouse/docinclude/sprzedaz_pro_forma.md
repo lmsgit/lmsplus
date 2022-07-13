@@ -32,7 +32,7 @@ Zapisujemy fakturę.
 
 ![](https://www.chilan.com/lms-plus/screenshots/warehouse/wh-178.png)
 
-Nastąpiła walidacja dokumentu i dostaliśmy komunikaty błędów, które trzeba usunąć aby zapisać fakturę.
+Nastąpiła walidacja dokumentu i dostaliśmy komunikaty błędów, które trzeba usunąć, aby zapisać fakturę.
 
 Opis błędów:
 

@@ -4,7 +4,7 @@ Raport pozwala wygenerować plik w formacie EDI++, który zawiera operacje magaz
 
 Dostępne jedynie dla użytkownika z rolą "(MAGAZYN) Administracja magazynem".
 
-Raport uruchamia się z poziomu manu głównego "Magazyn->Eksport EDI++'.
+Raport uruchamia się z poziomu menu głównego "Magazyn->Eksport EDI++'.
 
 Niezatwierdzone dokumenty nie mają wpływu na stany ilościowe i wartościowe magazynu i nie są eksportowane.
 

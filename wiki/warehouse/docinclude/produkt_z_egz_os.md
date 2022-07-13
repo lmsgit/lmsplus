@@ -11,7 +11,7 @@
 - Uzupełniaj 'Powiąż z modelem urządzeń sieciowych' poprzez wybranie modelu z osprzętu sieciowego.
 - Uzupełnij 'Prefiks nazwy egzemplarza' (jest to opcjonalne - prefix będzie automatycznie wstawiany do nazwy każdego egzemplarza produktu). Jeśli brakuje odpowiedniego prefiksu dodaj go do słownika (Magazyn-słowniki->Prefiksy).
 - Pozostałe pola są opcjonalne, ale niektóre z nich wymagają uwagi:
-  - Jednostka miary - jeśli brakuje odpowiedniej jednostki dodaj ją do słownika (Magazyn-słowniki->Jednostki miar). Zwróć uwagę aby wybrać odpowiednią jednostkę do towaru,
+  - Jednostka miary - jeśli brakuje odpowiedniej jednostki dodaj ją do słownika (Magazyn-słowniki->Jednostki miar). Zwróć uwagę, aby wybrać odpowiednią jednostkę do towaru,
   - Grupa - jeśli brakuje odpowiedniej grupy dodaj ją do słownika (Magazyn-słowniki->Grupy). Uzupełnienie nie jest obowiązkowe ale pozwala lepiej kategoryzować produkty.
   - Kategoria podatkowa - poprzez odpowiednią konfigurację można wymusić jej wprowadzanie. Warto jest to pole uzupełnić ponieważ wartość tego pola będzie się automatycznie podpowiadać podczas wystawiania faktury na produkt.
 - Zapisz.
@@ -56,7 +56,7 @@ Utwórz produkt i egzemplarze zgodnie z tą instrukcją [Tworzenie produktu z eg
 
 Należy teraz powiązać produkt z modelem z OS.
 
-Jeśli w OS nie istnieje model o takiej nazwie jak nazwa produktu kliknij ikonkę 'Dodaj do urządzeń sieciowych', która znajduje się przy produkcie aby utworzyć nowy model o nazwie produktu i powiązać z nim produkt.
+Jeśli w OS nie istnieje model o takiej nazwie jak nazwa produktu kliknij ikonkę 'Dodaj do urządzeń sieciowych', która znajduje się przy produkcie, aby utworzyć nowy model o nazwie produktu i powiązać z nim produkt.
 
 Jeśli w OS już istnieje model o takiej nazwie jak nazwa produktu przejdź do edycji produktu i w polu 'Powiąż z modelem urządzeń sieciowych' wskaż model z OS, z którym chcesz powiązać produkt.
 

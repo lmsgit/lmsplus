@@ -25,7 +25,7 @@ Na liście rodzajów cen pojawiła się nowa cena. W ten sam sposób dodamy kole
 ##### Definiowanie rodzajów cen dla produktu
 
 Uruchom z menu głównego 'Magazyn->Katalog produktów'.
-Wyszukaj produkt i kliknij w wiersz produktu aby przejść do informacji o nim.
+Wyszukaj produkt i kliknij w wiersz produktu, aby przejść do informacji o nim.
 
 ![](https://www.chilan.com/lms-plus/screenshots/warehouse/wh-164.png)
 
@@ -54,7 +54,7 @@ cenę "Promocja".
 
 ![](https://www.chilan.com/lms-plus/screenshots/warehouse/wh-171.png)
 
-Klikamy na ikonkę edycji znajdującą sie w wierszu z ceną.
+Klikamy na ikonkę edycji znajdującą się w wierszu z ceną.
 
 ![](https://www.chilan.com/lms-plus/screenshots/warehouse/wh-173.png)
 
@@ -66,8 +66,7 @@ Teraz cena "Promocja" będzie podpowiadana jako cena sprzedaży netto w dokumenc
 
 ##### Uwagi
 
-- Ze słownika nie można usuwać rodzaju ceny juz użytej w produktach.
+- Ze słownika nie można usuwać rodzaju ceny już użytej w produktach.
 - Ceny domyślnej nie można usunąć. Trzeba najpierw ustawić inną cenę jako domyślną a następnie usunąć cenę.
 - Tylko cena domyślna może być podpowiadana na dokumencie handlowym. Wyjątkiem jest sytuacja kiedy tworzymy fakturę na podstawie WZ. Wtedy jest podpowiadana cena sprzedaży z dokumentu WZ, jeśli była podana, jeśli nie podpowiadana jest cena domyślna sprzedaży.
 - Definiowanie cen nie jest obowiązkowe. W przypadku braku ceny domyślnej sprzedaży ceny nie będą podpowiadane na dokumencie handlowym.
-

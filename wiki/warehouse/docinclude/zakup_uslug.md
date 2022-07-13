@@ -1,6 +1,6 @@
 ## Zakup usług ZU
 
-Zakup usług ZU jest wirtualnym dokumentem magazynowym przeznaczonym do ewidencjonowania usług zakupowanych przez przedsiębiorstwo. Może on operować wyłącznie na wirtualnych magazynach.
+Zakup usług ZU jest wirtualnym dokumentem magazynowym przeznaczonym do ewidencjonowania usług kupowanych przez przedsiębiorstwo. Może on operować wyłącznie na wirtualnych magazynach.
 
 W swojej działalności przedsiębiorstwo prowadzi różnego rodzaju inwestycje. Z pomocą pluginu firma może odpowiednio ewidencjonować materiały jakie kupuje i jakie zużywa na potrzeby tych inwestycji. Najczęściej rozwiązywane jest to poprzez utworzenie oddzielnego magazynu dla każdej inwestycji i przepuszczanie towaru powiązanego z inwestycją tylko przez magazyn do inwestycji. Daje to możliwość łatwego i przejrzystego kontrolowania zużycia materiałów na inwestycję i ich kosztów. Kosztami inwestycji są również różnego rodzaju usługi świadczone przez podmioty zewnętrzne np. roboty budowlane, dzierżawa działek, przygotowanie map, projekty, transport itp. Właśnie te koszty usług możemy przy pomocy dokumentu ZU ewidencjonować w magazynie. Dzięki temu w jednym miejscu mamy zebrane i uporządkowane informacje o przebiegu i kosztach inwestycji.
 
@@ -9,9 +9,9 @@ Dokument ZU jest dokumentem wirtualnym ponieważ nie generuje on żadnych obrot�
 Niniejsza instrukcja ma na celu zobrazowanie zastosowania ewidencji zakupionych usług.
 
 Na potrzeby tej instrukcji przyjmiemy założenie, że rozpoczęliśmy inwestycję budowy przyłącza o nazwie kodowej 'WW-123' i w związku z tym musieliśmy kupić następujące materiały, na które dostaliśmy właśnie faktury zakupu od dostawcy "ARBUCKLE":
-- studnia o nazwie "Studnia SKR" w ilości 3 szt. i cenie 200zł netto za sztukę
-- mikrokabel o nazwie "Mikrokabel FO BKT" w ilości 3 km. i cenie 800zł netto za kilometr
-- mikrorurka o nazwie "Mikrorurka DB 12x2" w ilości 3 km. i cenie 700zł netto za kilometr
+- studnia o nazwie "Studnia SKR" w ilości 3 szt. i cenie 200 zł netto za sztukę
+- mikrokabel o nazwie "Mikrokabel FO BKT" w ilości 3 km. i cenie 800 zł netto za kilometr
+- mikrorurka o nazwie "Mikrorurka DB 12x2" w ilości 3 km. i cenie 700 zł netto za kilometr
 
 oraz dostaliśmy faktury od podmiotów zewnętrznych z tytułu świadczenia następujących usług:
 - transport w wysokości 120 zł netto od kontrahenta "ARBUCKLE"
@@ -86,7 +86,7 @@ Uwaga: Nie musimy tworzyć od razu jednego RW na wszystko. Możemy materiały na
 
 ##### Podsumowanie
 
-W dowolnej chwili możemy teraz śledzić koszt inwestycji i rozchód materiałów. Ze slajdów poniżej możemy od razu wywnioskować, że jak na razie na inwestycje wydaliśmy 5100zł+1620zł=6720zł netto. Nasz księgowy też będzie zadowolony kiedy będziemy wszystkie dokumenty związane z inwestycją przekazywać spójnie powiązane.
+W dowolnej chwili możemy teraz śledzić koszt inwestycji i rozchód materiałów. Ze slajdów poniżej możemy od razu wywnioskować, że jak na razie na inwestycje wydaliśmy 5100 zł + 1620 zł = 6720 zł netto. Nasz księgowy też będzie zadowolony kiedy będziemy wszystkie dokumenty związane z inwestycją przekazywać spójnie powiązane.
 
 ![](https://www.chilan.com/lms-plus/screenshots/warehouse/wh-198.png)
 

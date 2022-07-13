@@ -92,7 +92,7 @@ Ponieważ chcemy dodać wszystko z katalogu produktów uruchamiamy 'Dodaj wszyst
 
 ![](https://www.chilan.com/lms-plus/screenshots/warehouse/wh-50.png)
 
-Wszystkie produkty zostały dodane do listy. Pozostaje jedynie wyedytować każdą pozycję, żeby określić jej ilość i cenę netto zakupu za jednostkę miary.
+Wszystkie produkty zostały dodane do listy. Pozostaje jedynie edytować każdą pozycję, żeby określić jej ilość i cenę netto zakupu za jednostkę miary.
 
 ##### Edycja BO
 
@@ -103,7 +103,7 @@ Dla każdego produktu należy wprowadzić:
 - ilość jednostek (jeśli indeks posiada przypisane egzemplarze zmiana ilości jednostek jest możliwa jedynie poprzez dodawanie lub usuwanie egzemplarzy z dokumentu BO),
 - wartość netto wszystkich jednostek
 
-Edycja dodanego produktu możliwa jest poprzez uruchomienie ikonki 'Edytuj' znajdującej sie w wierszu produktu.
+Edycja dodanego produktu możliwa jest poprzez uruchomienie ikonki 'Edytuj' znajdującej się w wierszu produktu.
 
 ![](https://www.chilan.com/lms-plus/screenshots/warehouse/wh-51.png)
 

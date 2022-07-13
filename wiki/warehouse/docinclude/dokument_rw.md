@@ -6,7 +6,7 @@ Najczęściej dokument RW wykorzystujemy do ewidencji materiałów zużywanych n
 
 Na potrzeby instrukcji zakładamy, że przyłącze do naszego klienta uległo poważnej awarii i potrzebujemy przerobić je całkowicie, co umownie potraktujemy jako działania mające na celu utrzymywanie infrastruktury własnej firmy. Potrzebujemy do tego następujących materiałów:
 - kabel światłowodowy (w magazynie jest to produkt 'Światłowód Optix W-NOTKSd 1J (GJFJV) 1x9/125 ITU-T G.657A') w ilości 10 metrów,
-- patchcord (w magazynie jest to produkt 'Petchcord APC G657A2') w ilości 1 sztuka,
+- patchcord (w magazynie jest to produkt 'Patchcord APC G657A2') w ilości 1 sztuka,
 - Router H660G (w magazynie jest to produkt 'H660G') w ilości 1 sztuka.
 
 Produkt 'H660G' jest produktem z egzemplarzami i jest powiązany z osprzętem sieciowym. Dzięki takiej definicji po wydaniu urządzenia będziemy mogli poprzez urządzenie sieciowe stwierdzić w jakiej jest lokalizacji, a przez magazyn stwierdzić kiedy zostało wydane do montażu.
@@ -50,7 +50,7 @@ W sekcji 'Dodaj pozycję do dokumentu' wybieramy produkt. Ponieważ jest to prod
 
 ![](https://www.chilan.com/lms-plus/screenshots/warehouse/wh-84.png)
 
-Klikamy ikonkę 'Zapisz' na końcu wiersza aby dodać pozycję do dokumentu.
+Klikamy ikonkę 'Zapisz' na końcu wiersza, aby dodać pozycję do dokumentu.
 
 ![](https://www.chilan.com/lms-plus/screenshots/warehouse/wh-85.png)
 
@@ -60,13 +60,13 @@ W sekcji 'Dodaj pozycję do dokumentu' wybieramy produkt. Ponieważ jest to prod
 
 ![](https://www.chilan.com/lms-plus/screenshots/warehouse/wh-86.png)
 
-Klikamy ikonkę 'Zapisz' na końcu wiersza aby dodać pozycję do dokumentu.
+Klikamy ikonkę 'Zapisz' na końcu wiersza, aby dodać pozycję do dokumentu.
 
 ![](https://www.chilan.com/lms-plus/screenshots/warehouse/wh-87.png)
 
 ###### Produkt 'Światłowód Optix W-NOTKSd 1J (GJFJV) 1x9/125 ITU-T G.657A'
 
-Ponieważ jest to produkt bez egzemplarzy dodajemy go identycznie jak 'Petchcord APC G657A2' opisany powyżej.
+Ponieważ jest to produkt bez egzemplarzy dodajemy go identycznie jak 'Patchcord APC G657A2' opisany powyżej.
 
 ##### Weryfikacja dokumentu
 
@@ -119,7 +119,7 @@ Należy pamiętać o nadaniu odpowiednich uprawnień dla użytkownika, który do
 
 Na potrzeby instrukcji założone było , że przyłącze do naszego klienta uległo poważnej awarii i potrzebujemy przerobić je całkowicie, co umownie potraktujemy jako działania mające na celu utrzymywanie infrastruktury własnej firmy. Poczyńmy kolejne założenia:
 - zrobiliśmy RW na  materiały potrzebne do usunięcia usterki i przekazaliśmy je serwisantowi,
-- serwisant będąc u klienta wymienił tylko patchcord (produkt o nazwie 'Petchcord APC G657A2' w magazynie), reszty materiałów, które pobrał nie zużył i chce zwrócić je na magazyn.
+- serwisant będąc u klienta wymienił tylko patchcord (produkt o nazwie 'Patchcord APC G657A2' w magazynie), reszty materiałów, które pobrał nie zużył i chce zwrócić je na magazyn.
 
 W w tym przypadku musimy zrobić korektę RW żeby zwrócone materiały wprowadzić na magazyn.
 

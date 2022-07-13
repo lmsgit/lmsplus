@@ -51,4 +51,4 @@ W obu przypadkach w magazynie zostanie dodany produkt, który będzie powiązany
 
 W wymienionych przypadkach w magazynie zostanie dodany egzemplarz produktu, który będzie powiązany z urządzeniem sieciowym w osprzęcie sieciowym.
 
-Należy zwrócić uwagę, że nie przy każdym urządzeniu znajdują się wymienione akcje pozwalające na dodanie do magazynu. Spowodowane jest to tym, że dane urządzenie nie spełnia wszystkich wymagań aby mogło być dodane do magazynu. Brakujące wymagania można odnaleźć po znalezieniu urządzenia na liście synchronizacji (Menu główne->Synchronizacja).
+Należy zwrócić uwagę, że nie przy każdym urządzeniu znajdują się wymienione akcje pozwalające na dodanie do magazynu. Spowodowane jest to tym, że dane urządzenie nie spełnia wszystkich wymagań, aby mogło być dodane do magazynu. Brakujące wymagania można odnaleźć po znalezieniu urządzenia na liście synchronizacji (Menu główne->Synchronizacja).

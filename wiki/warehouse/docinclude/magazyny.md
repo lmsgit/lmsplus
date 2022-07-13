@@ -10,7 +10,7 @@ Formularz dodawania magazynu uzupełniamy własnymi danymi i zapisujemy.
 
 ![](https://www.chilan.com/lms-plus/screenshots/warehouse/wh-6.png)
 
-Po zapisaniu magazyn pojawia sie na liście magazynów.
+Po zapisaniu magazyn pojawia się na liście magazynów.
 
 ![](https://www.chilan.com/lms-plus/screenshots/warehouse/wh-7.png)
 
@@ -31,4 +31,3 @@ Dla każdej firmy może istnieć tylko jeden magazyn główny i jeden magazyn sp
 "Magazyn zwykły" to taki, który nie jest główny, do sprzedaży ani wirtualny.
 
 "Magazyn do ewidencji operacji wirtualnych" przeznaczony jest do ewidencji operacji pomocniczych, które nie wpływają na przychód i rozchód magazynowy. Mają zastosowanie jedynie w momencie kiedy ewidencjonujemy zakup usług.
-

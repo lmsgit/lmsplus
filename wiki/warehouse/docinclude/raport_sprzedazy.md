@@ -2,7 +2,7 @@
 
 Dostępne jedynie dla użytkownika z rolą "(MAGAZYN) Administracja magazynem".
 
-Raport uruchamia się z poziomu manu głównego "Magazyn->Sprzedaż produktów'. Raport pokazuje ilość sprzedanych produktów i egzemplarzy według określonego filtra w wybranym okresie. Dane pochodzą z zatwierdzonych dokumentów WZ i WZk z wybranego okresu i tylko z magazynów sprzedaży.
+Raport uruchamia się z poziomu menu głównego "Magazyn->Sprzedaż produktów'. Raport pokazuje ilość sprzedanych produktów i egzemplarzy według określonego filtra w wybranym okresie. Dane pochodzą z zatwierdzonych dokumentów WZ i WZk z wybranego okresu i tylko z magazynów sprzedaży.
 
 Wyświetlanie danych podlega systemowi uprawnień do magazynów, co w praktyce oznacza, że jeśli użytkownik nie ma uprawnień do magazynu to nie może też śledzić sprzedaży. Wtedy w filtrze magazynów może wybrać tylko te, do których ma dostęp.
 

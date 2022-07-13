@@ -9,3 +9,7 @@ Istnienie usługi w katalogu stanowi pewnego rodzaju deklarację z naszej strony
 Katalog usług możemy przeglądać uruchamiając z menu głównego Magazyn->Katalog usług
 
 ![](https://www.chilan.com/lms-plus/screenshots/warehouse/wh-188.png)
+
+##### Import usług
+
+Od wersji > 1.9.4 możliwy jest import usług z pliku CSV ([Import](import.md))

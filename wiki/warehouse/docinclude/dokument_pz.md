@@ -13,7 +13,7 @@ Na potrzeby instrukcji zakładamy, że:
 - Na fakturze mamy następujące pozycje:
   - 'Router H640G' w ilości 3szt.. Cena za sztukę 145 zł netto. Otrzymaliśmy też do tego specyfikację numerów seryjnych w postaci kodów kreskowych. Kody kreskowe są następujące: 00216600316, 00208450915, 00208380915.
   - 'Router H665' w ilości 3szt.. Cena za sztukę 170 zł netto. Otrzymaliśmy też do tego specyfikację numerów seryjnych w postaci kodów kreskowych. Kody kreskowe są następujące: 00211860915, 00208300915, 00211920915.
-  - 'Kabel UTP CAT5E CCA' w ilości 2km. Cena za kilometr kabla 430zł netto.
+  - 'Kabel UTP CAT5E CCA' w ilości 2km. Cena za kilometr kabla 430 zł netto.
   - 'Patchcord światłowodowy APC G657A2' w ilości 20 sztuk. Cena za sztukę 12,5 zł netto.
 - Posiadamy już na magazynie pewną ilość produktu 'Router H640G'. W magazynie jest on oznaczony nazwą 'H640G'. Produkt 'H640G' jest produktem z egzemplarzami i jest powiązany z OS.
 - Nigdy nie posiadaliśmy produktu 'Router H665'. Nie będziemy go wprowadzać do osprzętu sieciowego ponieważ jest to towar na sprzedaż. Chcemy żeby to był produkt z egzemplarzami, bo chcemy wiedzieć jaki był SN sprzedawanego urządzenia.
@@ -76,7 +76,7 @@ Uzupełnij kolejno:
 - firmę,
 - magazyn główny,
 - plan numeracyjny,
-- dostawcę (jeśli nie ma na liście skorzystaj z instrukcji [Dostawcy](dostawcy.md) aby utworzyć dostawcę. Nsa liście dostawców pojawią się tylko ci, którzy jako klienci należą do wybranej wcześniej firmy,
+- dostawcę (jeśli nie ma na liście skorzystaj z instrukcji [Dostawcy](dostawcy.md), aby utworzyć dostawcę. Na liście dostawców pojawią się tylko ci, którzy jako klienci należą do wybranej wcześniej firmy,
 - datę otrzymania (nasz przykładowy towar otrzymaliśmy 20/04/2020),
 - numer specyfikacji (nasza przykładowa faktura zakupu miała numer FV/1/2020),
 - datę specyfikacji (naszą przykładową fakturę zakupu wystawiono 21/04/2020).
@@ -108,11 +108,11 @@ W sekcji 'Dodaj pozycję do dokumentu' wybieramy produkt 'H640G' i uruchamiamy  
 
 ![](https://www.chilan.com/lms-plus/screenshots/warehouse/wh-66.png)
 
-Na formularzu, który sie wyświetli należy wyselekcjonować produkt 'H640G', zaznaczyć i uruchomić 'Dodaj zaznaczone'.
+Na formularzu, który się wyświetli należy wyselekcjonować produkt 'H640G', zaznaczyć i uruchomić 'Dodaj zaznaczone'.
 
 ![](https://www.chilan.com/lms-plus/screenshots/warehouse/wh-67.png)
 
-Produkt został dodany do listy wraz ze wszystkimi egzemplarzami, które były możliwe do dodania (takimi, które nigdy wcześniej nie były dodane innym PZ lub BO). Pozostaje jedynie wyedytować pozycję, żeby określić jej cenę netto zakupu za jednostkę miary. Edycja dodanego produktu możliwa jest poprzez uruchomienie ikonki 'Edytuj' znajdującej sie w wierszu produktu. Należy pamiętać aby po zakończonej edycji uruchomić ikonkę 'Zapisz' znajdującą się przy edytowanym produkcie. Jeśli tego nie zrobimy zmienione dane zostaną utracone.
+Produkt został dodany do listy wraz ze wszystkimi egzemplarzami, które były możliwe do dodania (takimi, które nigdy wcześniej nie były dodane innym PZ lub BO). Pozostaje jedynie edytować pozycję, żeby określić jej cenę netto zakupu za jednostkę miary. Edycja dodanego produktu możliwa jest poprzez uruchomienie ikonki 'Edytuj' znajdującej się w wierszu produktu. Należy pamiętać aby po zakończonej edycji uruchomić ikonkę 'Zapisz' znajdującą się przy edytowanym produkcie. Jeśli tego nie zrobimy zmienione dane zostaną utracone.
 
 Po uzupełnieniu ceny otrzymujemy zamierzony rezultat (rysunek poniżej).
 
@@ -140,7 +140,7 @@ Po dodaniu produktu otrzymujemy zamierzony rezultat (rysunek poniżej).
 
 ###### Produkt 'KABEL SIECIOWY UTP SKRĘTKA CAT5E CCA'
 
-Produkt jest produktem bez egzemplarzy dlatego dodajemy go identycznie jak produkt 'Petchcord APC G657A2' opisany powyżej. Należy jednak zwrócić uwagę że jednostka miary produktu to kilometr.
+Produkt jest produktem bez egzemplarzy dlatego dodajemy go identycznie jak produkt 'Patchcord APC G657A2' opisany powyżej. Należy jednak zwrócić uwagę że jednostka miary produktu to kilometr.
 
 
 ##### Weryfikacja dokumentu
@@ -155,7 +155,7 @@ Zanim zatwierdzimy dokument poddajmy go weryfikacji. W naszym przypadku kwota ne
 
 Dokument PZ może podlegać wielokrotnym zmianom. Dokument jest dostępny do edycji do momentu jego zatwierdzenia.
 
-Edycja dodanego produktu możliwa jest poprzez uruchomienie ikonki 'Edytuj' znajdującej sie w wierszu produktu.
+Edycja dodanego produktu możliwa jest poprzez uruchomienie ikonki 'Edytuj' znajdującej się w wierszu produktu.
 
 Jeśli edytujemy produkt z egzemplarzami możemy podać cenę netto jednego egzemplarza lub wartość wszystkich egzemplarzy, które zostały dodane. Ilość jest uzupełniana automatycznie w zależności od tego ile egzemplarzy mamy na dostępnej liście. Egzemplarz możemy usunąć z listy co spowoduje, że powróci na listę wyboru dostępnych egzemplarzy i zmieni się ilość produktu.
 
@@ -171,7 +171,7 @@ Usunąć można jedynie niezatwierdzony dokument PZ.
 
 ##### Zatwierdzanie PZ
 
-Aby pozycje zawarte w PZ pojawiły sie w stanach magazynowych dokument PZ musi zostać zatwierdzony. Stan magazynowy zaistnieje z datą zatwierdzenia dokumentu PZ.
+Aby pozycje zawarte w PZ pojawiły się w stanach magazynowych dokument PZ musi zostać zatwierdzony. Stan magazynowy zaistnieje z datą zatwierdzenia dokumentu PZ.
 
 Podczas zatwierdzania dokumentu PZ może wystąpić sytuacja kiedy żądane egzemplarze są już niedostępne w czasie zatwierdzania dokumentu. W takim przypadku zostanie wyświetlone odpowiednie ostrzeżenie i taki egzemplarz należy usunąć z dokumentu.
 
@@ -191,4 +191,3 @@ Poniżej widok stanów magazynowych dla każdego z produktów dodanych dokumente
 - Edycja dokumentu PZ jest możliwa do momentu zatwierdzenia dokumentu. Edycji podlegają wyłącznie pozycje dokumentu.
 - Usuwanie dokumentu PZ jest możliwe tylko jeśli dokument jest niezatwierdzony.
 - Po zatwierdzeniu dokumentu PZ jego wycofanie jest niemożliwe z poziomu interfejsu programu. Wycofanie PZ może również okazać się niemożliwa nawet z pominięciem interfejsu użytkownika dlatego zaleca się jego skrupulatną weryfikację przed zatwierdzeniem.
-

@@ -29,7 +29,6 @@ Operacja synchronizacji nie wpływa w żaden sposób na dotychczasowe działanie
 
 ##### Uwagi
 
-- W przypadku kiedy w tabeli _taxes_ istnieje wiele rekordów gdzie pole _value=23.00_ to przed rozpoczęciem synchronizacji należy zwrócić szczególną uwagę na wartości zmiennej konfiguracyjnej _default_sync_taxid_, która jest tworzona w procesie instalacji pluginu. Każdy model osprzętu sieciowego, który będziemy chcieli przenieść do magazynu jako produkt, będzie dla nowego produktu domyślnie ustawiał wartość podatku na podstawie tej zmiennej. Domyślna wartość dla _default_sync_taxid_ jest ustawiana na wartość pola _ID_ z tabeli _taxes_ gdzie pole _value_ jest równe _23.00_. W LMS może istnieć wiele podatków o polu _value=23.00_ i każdy może być aktywny w chwili instalacji pluginu więc instalator pluginu nie może podjąć decyzji, który ma być prawidłowy, dlatego domyślnie wybiera on ostatnio dodany podatek o wartości _23_. Należy to ustawienie sprawdzić i ewentualnie ustawić odpowiednie _ID_.
 - Jeśli z MAG usuwamy producenta powiązanego z producentem w OS to jest on usuwany wyłącznie z MAG. Producent w OS pozostaje nieruszony. Taka operacja jedynie usuwa powiązanie.
 - Jeśli z MAG usuwamy produkt powiązany z modelem w OS to jest on usuwany wyłącznie z MAG. Model w OS pozostaje nieruszony. Taka operacja jedynie usuwa powiązanie.
 - Jeśli z MAG usuwamy egzemplarz produktu powiązany z urządzeniem sieciowym w OS to jest on usuwany wyłącznie z MAG. Model w OS pozostaje nieruszony. Taka operacja jedynie usuwa powiązanie.

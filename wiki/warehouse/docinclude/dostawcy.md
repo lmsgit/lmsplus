@@ -8,4 +8,4 @@ Dostawcą jest klient LMS, który został oznaczony jako dostawca
 
 #### Lista dostawców
 
-Lista dostawców można otrzymać poprzez przefiltrowwanie listy klientów według flagi "Dostawca".
+Lista dostawców można otrzymać poprzez filtrowanie listy klientów według flagi "Dostawca".

@@ -13,11 +13,10 @@ Lista dostępnych dla użytkownika, który ma dostęp do wszystkich magazynów i
 Na dole formularza pojawiają się dwa pola podsumowania:
 
 - "Wszystkie" (wartość 22) - oznacza ile jest wszystkich dokumentów w systemie, które spełniają kryteria wyszukiwania z filtrów.
-- "Dostępne" (wartość 22) - oznacza ile jest dokumentów w systemie, które spełniają kryteria wyszukiwania z filtrów i do których użytkownik może mić dostęp.
+- "Dostępne" (wartość 22) - oznacza ile jest dokumentów w systemie, które spełniają kryteria wyszukiwania z filtrów i do których użytkownik może mieć dostęp.
 
 Poniżej przykładowy wynik kiedy użytkownik ma możliwość podglądu jedynie dokumentów PZ na dowolnym magazynie.
 
 ![](https://www.chilan.com/lms-plus/screenshots/warehouse/wh-206.png)
 
 Zauważmy że ilość dostępnych dokumentów jest inna niż wszystkich, co oznacza, że do pewnych dokumentów użytkownik nie ma dostępu.
-

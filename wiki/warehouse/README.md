@@ -4,7 +4,7 @@
 
 Plugin "Warehouse" jest dodatkiem do systemu LMS przeznaczonym do prowadzenia gospodarki magazynowej. Plugin umożliwia prowadzenie ewidencji każdego rodzaju asortymentu.
 
-Plugin dostarcza standardowych rodzajów dokumentów magazynowych stosowanych w prowadzeniu ewidencji magazynowej. Dokumentacja opisuje przykładowe procesy przepływu produktów w przedsiębiorstwie i dokumenty magazynowe z tym powiązane. Do opisu metod dokumentowania procesów magazynowych przyjęty został ogólny model stosowany w gospodarce magazynowej, który ma na celu zobrazowania funkcji systemu. Ostatecznie to przedsiębiorca decyduje o tym jakimi dokumentować będzie operacje magazynowe. Zalecane jest zatem aby każdy przedsiębiorca korzystający z magazynu przed wystawianiem dokumentów magazynowych uzgodnił z księgowością jakimi dokumentami magazynowymi powinien ewidencjonować odpowiednie dla swojego przedsiębiorstwa procesy.
+Plugin dostarcza standardowych rodzajów dokumentów magazynowych stosowanych w prowadzeniu ewidencji magazynowej. Dokumentacja opisuje przykładowe procesy przepływu produktów w przedsiębiorstwie i dokumenty magazynowe z tym powiązane. Do opisu metod dokumentowania procesów magazynowych przyjęty został ogólny model stosowany w gospodarce magazynowej, który ma na celu zobrazowania funkcji systemu. Ostatecznie to przedsiębiorca decyduje o tym jakimi dokumentować będzie operacje magazynowe. Zalecane jest zatem, aby każdy przedsiębiorca korzystający z magazynu przed wystawianiem dokumentów magazynowych uzgodnił z księgowością jakimi dokumentami magazynowymi powinien ewidencjonować odpowiednie dla swojego przedsiębiorstwa procesy.
 
 Istotne cechy działania magazynu:
 - Ewidencja magazynowa prowadzona jest w cenach netto według metody FIFO.
@@ -85,7 +85,7 @@ Integracja WZ z modułem finansowym pozwala na:
 
 #### [Eksport do EDI++](docinclude/epp.md)
 
-## Dodatki:
+### Inne
 
 #### [Magazyny](docinclude/magazyny.md)
 
@@ -117,4 +117,8 @@ Integracja WZ z modułem finansowym pozwala na:
 
 #### [Utylizacja urządzeń](docinclude/utylizacja_urzadzen.md)
 
+#### [Import](docinclude/import.md)
+
 #### [FIFO](docinclude/fifo.md)
+
+#### [Zmienne konfiguracyjne](docinclude/zmienne_konfiguracyjne.md)

@@ -9,7 +9,7 @@ UWAGI:
 - Inwentaryzację należy przeprowadzić oddzielne dla każdego magazynu.
 - Przed rozpoczęciem inwentaryzacji wszystkie dokumenty w magazynie muszą być zatwierdzone (dopilnowanie tego warunku należy do użytkownika).
 - Od momentu utworzenia arkusza inwentaryzacji do momentu jego zatwierdzenia nie można wystawiać żadnych dokumentów powiązanych z magazynem na którym jest prowadzona inwentaryzacja.
-- Inwentaryzacja rozpoczyna sie w momencie utworzenia arkusza inwentaryzacji i kończy w momencie jego zatwierdzenia.
+- Inwentaryzacja rozpoczyna się w momencie utworzenia arkusza inwentaryzacji i kończy w momencie jego zatwierdzenia.
 - Inwentaryzacji podlegają tylko produkty, które znalazły się na arkuszu inwentaryzacji.
 
 Inwentaryzację można przeprowadzać w dowolnym momencie o ile spełnione są powyższe uwagi.
@@ -98,4 +98,3 @@ Zatwierdzenie arkusza kończy proces inwentaryzacji i skutkuje utworzeniem odpow
 Dokument IPW powoduje przyjęcie produktu na magazyn w ostatniej cenie zakupu, natomiast dokument IRW powoduje rozchód produktu z magazynu według metody FIFO.
 
 Zatwierdzenie arkusza powoduje automatyczne zatwierdzenia dokumentów IW, IPW i IRW i nie ma możliwości korygowania żadnego z tych dokumentów. Dlatego przed zatwierdzeniem arkusza należy się upewnić czy jest on prawidłowo uzupełniony. Jeśli zostaną wykryte błędy już po zatwierdzeniu arkusza to jedynym sposobem ich naprostowania jest wykonanie kolejnej inwentaryzacji (pomocne może być przy tym użycie opcji arkusza wypełnionego).
-

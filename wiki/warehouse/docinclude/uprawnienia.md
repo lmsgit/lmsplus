@@ -13,7 +13,7 @@ Plugin dostarcza następujące role systemowe:
 
 Brak wymaganych uprawnień do modułu zgłaszany jest poprzez odpowiednie komunikaty.
 
-Nadawanie tych uprawnień odbywa sie z poziomu edycji użytkownika LMS
+Nadawanie tych uprawnień odbywa się z poziomu edycji użytkownika LMS
 
 ![](https://www.chilan.com/lms-plus/screenshots/warehouse/wh-200.png)
 
@@ -54,7 +54,7 @@ Uprawnieniami może zarządzać tylko użytkownik z rolą "(MAGAZYN) Administrac
 
 Uprawnienia nadaje się poprzez uruchomienie z menu głównego "Magazyn-Słowniki->Prawa dostępu". Po kliknięciu w wiersz wybranego dokumentu magazynowego przechodzimy do nadania uprawnień do magazynu.
 
-Każdy użytkownik, który będzie pracował z magazynem musi mieć nadane uprawnienia do dokumentów (niezależnie od uprawnień do modułów). Uprawnienia pozwalają na zdefiniowanie dla każdego typu dokumentu dozwolonych operacji (podgląd(wydruk), tworzenie, edycja, usuwanie, zatwierdzanie). Dodatkowo aby użytkownik mógł tych operacji używać musi mieć nadane uprawnienia do magazynu, którego dotyczą dokumenty.
+Każdy użytkownik, który będzie pracował z magazynem musi mieć nadane uprawnienia do dokumentów (niezależnie od uprawnień do modułów). Uprawnienia pozwalają na zdefiniowanie dla każdego typu dokumentu dozwolonych operacji (podgląd(wydruk), tworzenie, edycja, usuwanie, zatwierdzanie). Dodatkowo, aby użytkownik mógł tych operacji używać musi mieć nadane uprawnienia do magazynu, którego dotyczą dokumenty.
 
 ![](https://www.chilan.com/lms-plus/screenshots/warehouse/wh-203.png)
 

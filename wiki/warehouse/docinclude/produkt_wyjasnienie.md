@@ -61,13 +61,17 @@ Produkt bez egzemplarzy stosujemy również dla towaru takiego jak kable, złąc
 Nie. Katalog produktów jest wspólny dla wszystkich firm. Dopiero w momencie tworzenia dokumentu magazynowego określamy jaka ilość, w jakiej cenie jest wydawana z magazynu bądź przyjmowana na magazyn konkretnej firmy.
 
 
-##### Kiedy stosować produkt z egzemplarzami, który nie jest powiązany z OS.
+##### Kiedy stosować produkt z egzemplarzami, który nie jest powiązany z OS
 
 Przykład: Prowadzimy sprzedaż bardzo popularnego na rynku routera o nazwie 'RouterA'. W urządzeniach sieciowych nie przechowujemy informacji o tych routerach, czyli mamy produkt niepowiązany z OS. Sprzedajemy klientowi 'RouterA' a po 2 dniach klient przychodzi do nas i mówi, że router nie działa. Klient jednak zataił, że nie jest to ten router, który kupił od nas ale jest to router sąsiada który był kupiony w innej firmie. Zgadza się tylko model routera, ale numer seryjny jest inny. W takiej sytuacji:
 - jeśli w magazynie 'RouterA' był produktem bez egzemplarzy nie będziemy mogli stwierdzić jaki numer seryjny został sprzedany dla klienta i dlatego nie jesteśmy zabezpieczeni przed takim oszustwem. Będziemy jedynie wiedzieć że taki produkt sprzedaliśmy.
 - jeśli w magazynie 'RouterA' był produktem z egzemplarzami podczas sprzedaży zostanie zarejestrowany numer seryjny sprzedanego urządzenia i jesteśmy zabezpieczeni przed tego typu oszustwami. Należy jednak pamiętać, żeby w momencie sprzedaży wydrukować WZ z egzemplarzem, bez cen i dać do podpisu dla klienta ponieważ na FV drukowana jest tylko nazwa produktu, a nie pojawia się SN egzemplarza.
 
 Generalnie produkt z egzemplarzami stosujemy w momencie kiedy chcemy rejestrować w magazynie operacje na każdym egzemplarzu.
+
+##### Import produktów
+
+Od wersji > 1.9.4 możliwy jest import produktów oraz egzemplarzy produktów z pliku CSV ([Import](import.md))
 
 ##### Uwagi:
 

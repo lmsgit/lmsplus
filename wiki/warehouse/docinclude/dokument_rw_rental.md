@@ -42,7 +42,7 @@ W sekcji 'Dodaj pozycję do dokumentu' wybieramy produkt 'H640G'. Ponieważ jest
 
 ![](https://www.chilan.com/lms-plus/screenshots/warehouse/wh-103.png)
 
-Klikamy ikonkę 'Zapisz' na końcu wiersza aby dodać pozycję do dokumentu.
+Klikamy ikonkę 'Zapisz' na końcu wiersza, aby dodać pozycję do dokumentu.
 
 ![](https://www.chilan.com/lms-plus/screenshots/warehouse/wh-104.png)
 
@@ -50,7 +50,7 @@ Klikamy ikonkę 'Zapisz' na końcu wiersza aby dodać pozycję do dokumentu.
 
 Dokument RW może podlegać wielokrotnym zmianom. Dokument jest dostępny do edycji do momentu jego zatwierdzenia.
 
-Może zaistnieć sytuacja, że podczas dodawania egzemplarza wybierzemy niewłaściwy. W takim przypadku należy wyedytować pozycję dokumentu, usunąć zły egzemplarz i dodać właściwy.
+Może zaistnieć sytuacja, że podczas dodawania egzemplarza wybierzemy niewłaściwy. W takim przypadku należy edytować pozycję dokumentu, usunąć zły egzemplarz i dodać właściwy.
 
 ![](https://www.chilan.com/lms-plus/screenshots/warehouse/wh-106.png)
 

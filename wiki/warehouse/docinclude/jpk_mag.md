@@ -2,7 +2,7 @@
 
 Dostępne jedynie dla użytkownika z rolą "(MAGAZYN) Administracja magazynem".
 
-Raport uruchamia się z poziomu manu głównego "Magazyn->JPK-MAG'.
+Raport uruchamia się z poziomu menu głównego "Magazyn->JPK-MAG'.
 
 Niezatwierdzone dokumenty nie mają wpływu na stany ilościowe i wartościowe magazynu i nie podlegają raportowaniu JPK-MAG.
 
@@ -17,7 +17,4 @@ Wybierz kolejno:
 - magazyn,
 - okres raportu
 
-Uruchom "Eksport do formatu JPK-MAG" i zapisz wygenerowany plik xml.
-
-
-
+Uruchom "Eksport do formatu JPK-MAG" i zapisz wygenerowany plik XML.

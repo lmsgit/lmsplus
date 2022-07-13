@@ -28,7 +28,7 @@ Po wykonaniu czynności generowania formularz wygląda następująco:
 
 ![](https://www.chilan.com/lms-plus/screenshots/warehouse/wh-3.png)
 
-Wygenerowane plany pojawiają się na liście wszystkich planów numeracyjnych w systemie (rysunek poniżej) i podlegają takim samym operacjom (np.edycji) jak każdy plan numeracyjny.
+Wygenerowane plany pojawiają się na liście wszystkich planów numeracyjnych w systemie (rysunek poniżej) i podlegają takim samym operacjom (np. edycji) jak każdy plan numeracyjny.
 
 ![](https://www.chilan.com/lms-plus/screenshots/warehouse/wh-4.png)
 
@@ -53,15 +53,3 @@ Dla każdego użytkownika, który będzie zaangażowany w pracę magazynu należ
 #### Podsumowanie
 
 Po wykonaniu powyższych czynności magazyn jest gotowy do używania przez pozostałych użytkowników systemu i ewidencjonowania bieżących operacji magazynowych.
-
-## Zmienne konfiguracyjne
-
-### warehouse.allow_sale_below_purchase_price
-
-**Typ:** Wartość całkowita.
-
-**Wartość domyślna:** _0_
-
-**Opis:** Określa czy pozwalać (wartość _1_) na sprzedaż produktów magazynowych w cenach poniżej ceny zakupu, czy nie (wartość _0_).
-
-**Dostępność:** po 1.9.1
