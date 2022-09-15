@@ -14,6 +14,10 @@ jakość obsługi.
     - listę mailingową lms-plus@lists.lms.org.pl,
     - system zgłoszeń (ang. issues) projektu w witrynie github.com.
 
+## Warunki uczestnictwa w projekcie LMS Plus
+
+Każdy uczestnik za opłatą miesięczną w wysokości **250 zł netto** uzyskuje dostęp do prywatnego repozytorium git bazującego na publicznym repozytorium LMS-a. Przystąpienie do projektu jest możliwe na co najmniej rok. Po roku uczestnik może wycofać się z projektu za miesięcznym wypowiedzeniem.
+
 ## Dołączenie do projektu LMS Plus
 
 Zapraszamy do dołączenia do projektu LMS Plus - można to zrobić wysyłając maila na adres [biuro@chilan.com](mailto:biuro@chilan.com?subject=projekt%20LMS%20Plus) o następującej treści:
@@ -136,8 +140,3 @@ Zapraszamy do dołączenia do projektu LMS Plus - można to zrobić wysyłając 
 [wtyczka: obsługa podpisów biometrycznych dokumentów w oparciu o usługę Signatus firmy Infinite](https://github.com/chilek/lms-plus/tree/signatus) - **[zrzuty ekranu](https://github.com/chilek/lms/wiki/SIGNATUS-zrzuty-ekranu)**
 
 Uwaga! Dziennik/archiwum transakcji został już zintegrowany z publicznie dostępną gałęzią LMS.
-
-## Warunki uczestnictwa w projekcie LMS Plus
-
-Każdy uczestnik za opłatą miesięczną w wysokości **250 zł netto** uzyskuje dostęp do prywatnego repozytorium git bazującego na publicznym repozytorium LMS-a. Przystąpienie do projektu jest możliwe na co najmniej rok. Po roku uczestnik może wycofać się z projektu za miesięcznym wypowiedzeniem.
-
