@@ -139,5 +139,5 @@ Uwaga! Dziennik/archiwum transakcji został już zintegrowany z publicznie dost�
 
 ## Warunki uczestnictwa w projekcie LMS Plus
 
-Każdy uczestnik za opłatą miesięczną w wysokości 250 zł netto uzyskuje dostęp do prywatnego repozytorium git bazującego na publicznym repozytorium LMS-a. Przystąpienie do projektu jest możliwe na co najmniej rok. Po roku uczestnik może wycofać się z projektu za miesięcznym wypowiedzeniem.
+Każdy uczestnik za opłatą miesięczną w wysokości **250 zł netto** uzyskuje dostęp do prywatnego repozytorium git bazującego na publicznym repozytorium LMS-a. Przystąpienie do projektu jest możliwe na co najmniej rok. Po roku uczestnik może wycofać się z projektu za miesięcznym wypowiedzeniem.
 
