@@ -22,7 +22,7 @@ Każdy uczestnik za opłatą miesięczną w wysokości **250 zł netto** uzyskuj
 
 Zapraszamy do dołączenia do projektu LMS Plus - można to zrobić wysyłając maila na adres [biuro@chilan.com](mailto:biuro@chilan.com?subject=projekt%20LMS%20Plus) o następującej treści:
 1. Dane firmy do wystawianych faktur.
-1. Adres e-mail. na który będą automatycznie wysyłane faktury.
+1. Adres e-mail, na który będą automatycznie wysyłane faktury.
 1. Adres e-mail do zapisania na listę mailingową LMS Plus.
 1. Nazwa konta w systemie github.com (konto trzeba utworzyć samodzielnie).
 1. Załączony skan podpisanego i przypieczętowanego regulaminu projektu dostępnego poniżej:
@@ -63,13 +63,13 @@ Zapraszamy do dołączenia do projektu LMS Plus - można to zrobić wysyłając 
 
 [gałąź główna (klon publicznie dostępnej gałęzi master)](https://github.com/chilek/lms-plus/tree/master)
 
-[gałąź stabilna](https://github.com/chilek/lms-plus/tree/stable) (ostatnia wersja **27.50**)
+[gałąź stabilna](https://github.com/chilek/lms-plus/tree/stable) (ostatnia wersja **27.51**)
 
-[poprzednia gałąź stabilna](https://github.com/chilek/lms-plus/tree/stable-26) (ostatnia wersja **26.83**)
+[poprzednia gałąź stabilna](https://github.com/chilek/lms-plus/tree/stable-26) (ostatnia wersja **26.84**)
 
-[poprzednia gałąź stabilna](https://github.com/chilek/lms-plus/tree/stable-25) (ostatnia wersja **25.105**)
+[poprzednia gałąź stabilna](https://github.com/chilek/lms-plus/tree/stable-25) (ostatnia wersja **25.106**)
 
-[poprzednia gałąź stabilna](https://github.com/chilek/lms-plus/tree/stable-24) (ostatnia wersja **24.132**)
+[poprzednia gałąź stabilna](https://github.com/chilek/lms-plus/tree/stable-24) (ostatnia wersja **24.133**)
 
 [przestarzała gałąź stabilna](https://github.com/chilek/lms-plus/tree/stable-1.11.23) (ostatnia wersja **1.11.23.32**)
 
