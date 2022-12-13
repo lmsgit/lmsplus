@@ -22,7 +22,7 @@ Każdy uczestnik za opłatą miesięczną w wysokości **250 zł netto** uzyskuj
 
 Zapraszamy do dołączenia do projektu LMS Plus - można to zrobić wysyłając maila na adres [biuro@chilan.com](mailto:biuro@chilan.com?subject=projekt%20LMS%20Plus) o następującej treści:
 1. Dane firmy do wystawianych faktur.
-1. Adres e-mail na który będą automatycznie wysyłane faktury.
+1. Adres e-mail. na który będą automatycznie wysyłane faktury.
 1. Adres e-mail do zapisania na listę mailingową LMS Plus.
 1. Nazwa konta w systemie github.com (konto trzeba utworzyć samodzielnie).
 1. Załączony skan podpisanego i przypieczętowanego regulaminu projektu dostępnego poniżej:
