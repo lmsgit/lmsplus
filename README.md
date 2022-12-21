@@ -63,13 +63,13 @@ Zapraszamy do dołączenia do projektu LMS Plus - można to zrobić wysyłając 
 
 [gałąź główna (klon publicznie dostępnej gałęzi master)](https://github.com/chilek/lms-plus/tree/master)
 
-[gałąź stabilna](https://github.com/chilek/lms-plus/tree/stable) (ostatnia wersja **27.51**)
+[gałąź stabilna](https://github.com/chilek/lms-plus/tree/stable) (ostatnia wersja **27.53**)
 
-[poprzednia gałąź stabilna](https://github.com/chilek/lms-plus/tree/stable-26) (ostatnia wersja **26.84**)
+[poprzednia gałąź stabilna](https://github.com/chilek/lms-plus/tree/stable-26) (ostatnia wersja **26.86**)
 
-[poprzednia gałąź stabilna](https://github.com/chilek/lms-plus/tree/stable-25) (ostatnia wersja **25.106**)
+[poprzednia gałąź stabilna](https://github.com/chilek/lms-plus/tree/stable-25) (ostatnia wersja **25.108**)
 
-[poprzednia gałąź stabilna](https://github.com/chilek/lms-plus/tree/stable-24) (ostatnia wersja **24.133**)
+[poprzednia gałąź stabilna](https://github.com/chilek/lms-plus/tree/stable-24) (ostatnia wersja **24.135**)
 
 [przestarzała gałąź stabilna](https://github.com/chilek/lms-plus/tree/stable-1.11.23) (ostatnia wersja **1.11.23.32**)
 
@@ -94,10 +94,10 @@ Zapraszamy do dołączenia do projektu LMS Plus - można to zrobić wysyłając 
 [wtyczka: obsługa platformy Nettelekom](https://github.com/chilek/lms-plus/tree/nettelekom)
 
 [zaawansowane szablony dokumentów](https://github.com/chilek/lms-plus/tree/document-templates) - **[zrzuty ekranu](https://github.com/chilek/lms/wiki/CONTRACT-PROMO-zrzuty-ekranu)**:
-* [umowy promocyjne i pakietowe](https://github.com/chilek/lms-plus/tree/document-templates/documents/templates/contract-promo),
-* [wezwania do zapłaty z automatycznym naliczaniem odsetek](https://github.com/chilek/lms-plus/tree/document-templates/documents/templates/payment-summons),
-* [książeczka opłat uwzględniająca harmonogram obciążeń klienta](https://github.com/chilek/lms-plus/tree/document-templates/documents/templates/payment-booklet),
-* [biling telefoniczny](https://github.com/chilek/lms-plus/tree/document-templates/documents/templates/billing).
+* [umowy promocyjne i pakietowe](https://github.com/chilek/lms-plus/tree/document-templates/plugins/LMSDocumentTemplatesPlugins/documents/templates/contract-promo),
+* [wezwania do zapłaty z automatycznym naliczaniem odsetek](https://github.com/chilek/lms-plus/tree/document-templates/plugins/LMSDocumentTemplatesPlugins/documents/templates/payment-summons),
+* [książeczka opłat uwzględniająca harmonogram obciążeń klienta](https://github.com/chilek/lms-plus/tree/document-templates/plugins/LMSDocumentTemplatesPlugins/documents/templates/payment-booklet),
+* [biling telefoniczny](https://github.com/chilek/lms-plus/tree/document-templates/plugins/LMSDocumentTemplatesPlugins/documents/templates/billing).
 
 [raporty WWPE do UKE](https://github.com/chilek/lms-plus/tree/uke)
 
