@@ -94,10 +94,10 @@ Zapraszamy do dołączenia do projektu LMS Plus - można to zrobić wysyłając 
 [wtyczka: obsługa platformy Nettelekom](https://github.com/chilek/lms-plus/tree/nettelekom)
 
 [zaawansowane szablony dokumentów](https://github.com/chilek/lms-plus/tree/document-templates) - **[zrzuty ekranu](https://github.com/chilek/lms/wiki/CONTRACT-PROMO-zrzuty-ekranu)**:
-* [umowy promocyjne i pakietowe](https://github.com/chilek/lms-plus/tree/document-templates/plugins/LMSDocumentTemplatesPlugins/documents/templates/contract-promo),
-* [wezwania do zapłaty z automatycznym naliczaniem odsetek](https://github.com/chilek/lms-plus/tree/document-templates/plugins/LMSDocumentTemplatesPlugins/documents/templates/payment-summons),
-* [książeczka opłat uwzględniająca harmonogram obciążeń klienta](https://github.com/chilek/lms-plus/tree/document-templates/plugins/LMSDocumentTemplatesPlugins/documents/templates/payment-booklet),
-* [biling telefoniczny](https://github.com/chilek/lms-plus/tree/document-templates/plugins/LMSDocumentTemplatesPlugins/documents/templates/billing).
+* [umowy promocyjne i pakietowe](https://github.com/chilek/lms-plus/tree/document-templates/plugins/LMSDocumentTemplatesPlugin/documents/templates/contract-promo),
+* [wezwania do zapłaty z automatycznym naliczaniem odsetek](https://github.com/chilek/lms-plus/tree/document-templates/plugins/LMSDocumentTemplatesPlugin/documents/templates/payment-summons),
+* [książeczka opłat uwzględniająca harmonogram obciążeń klienta](https://github.com/chilek/lms-plus/tree/document-templates/plugins/LMSDocumentTemplatesPlugin/documents/templates/payment-booklet),
+* [biling telefoniczny](https://github.com/chilek/lms-plus/tree/document-templates/plugins/LMSDocumentTemplatesPlugin/documents/templates/billing).
 
 [raporty WWPE do UKE](https://github.com/chilek/lms-plus/tree/uke)
 
