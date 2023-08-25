@@ -63,9 +63,9 @@ Zapraszamy do dołączenia do projektu LMS Plus - można to zrobić wysyłając 
 
 [gałąź główna (klon publicznie dostępnej gałęzi master)](https://github.com/chilek/lms-plus/tree/master)
 
-[gałąź stabilna](https://github.com/chilek/lms-plus/tree/stable) (ostatnia wersja **27.53**)
+[gałąź stabilna](https://github.com/chilek/lms-plus/tree/stable) (ostatnia wersja **27.69**)
 
-[poprzednia gałąź stabilna](https://github.com/chilek/lms-plus/tree/stable-26) (ostatnia wersja **26.86**)
+[poprzednia gałąź stabilna](https://github.com/chilek/lms-plus/tree/stable-26) (ostatnia wersja **26.102**)
 
 [poprzednia gałąź stabilna](https://github.com/chilek/lms-plus/tree/stable-25) (ostatnia wersja **25.108**)
 
@@ -92,6 +92,8 @@ Zapraszamy do dołączenia do projektu LMS Plus - można to zrobić wysyłając 
 [wtyczka: obsługa platformy IPTV Jambox](https://github.com/chilek/lms-plus/tree/jambox) - **[zrzuty ekranu](https://github.com/chilek/lms/wiki/JAMBOX-zrzuty-ekranu)**
 
 [wtyczka: obsługa platformy Nettelekom](https://github.com/chilek/lms-plus/tree/nettelekom)
+
+[wtyczka: obsługa platformy Metroport MVNO](https://github.com/chilek/lms-plus/tree/metroport-mvno)
 
 [zaawansowane szablony dokumentów](https://github.com/chilek/lms-plus/tree/document-templates) - **[zrzuty ekranu](https://github.com/chilek/lms/wiki/CONTRACT-PROMO-zrzuty-ekranu)**:
 * [umowy promocyjne i pakietowe](https://github.com/chilek/lms-plus/tree/document-templates/plugins/LMSDocumentTemplatesPlugin/documents/templates/contract-promo),
