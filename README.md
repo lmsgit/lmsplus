@@ -19,9 +19,9 @@ jakość obsługi.
 Każdy uczestnik za opłatą miesięczną uzyskuje dostęp do prywatnego repozytorium git bazującego na publicznym repozytorium LMS-a. Przystąpienie do projektu jest możliwe na co najmniej rok. Po roku uczestnik może wycofać się z projektu za miesięcznym wypowiedzeniem.
 Opłata miesięczna uzależniona jest od zadeklarowanej przez uczestnika obsługiwanej liczby abonentów zgodnie z poniższym zasadami:
 
-- **200 zł** poniżej **500** abonentów,
-- **250 zł** od **500** abonentów i poniżej **1000** abonentów,
-- **300 zł**, od **1000** abonentów.
+- **200 zł** - poniżej **500** abonentów,
+- **250 zł** - od **500** abonentów i poniżej **1000** abonentów,
+- **300 zł** - od **1000** abonentów.
 
 ## Dołączenie do projektu LMS Plus
 
