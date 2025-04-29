@@ -20,9 +20,9 @@ Każdy uczestnik za opłatą miesięczną uzyskuje dostęp do prywatnego repozyt
 
 Opłata miesięczna uzależniona jest od zadeklarowanej przez uczestnika obsługiwanej liczby abonentów zgodnie z poniższym zasadami (warunki obowiązujące od **1 kwietnia 2025 roku**):
 
-- **200 zł** - poniżej **500** abonentów,
-- **250 zł** - od **500** abonentów i poniżej **1000** abonentów,
-- **300 zł** - od **1000** abonentów.
+- **200 zł** (taryfa **LMS+ S**) - poniżej **500** abonentów,
+- **250 zł** (taryfa **LMS+ M**) - od **500** abonentów i poniżej **1000** abonentów,
+- **300 zł** (taryfa **LMS+ L**) - od **1000** abonentów.
 
 ## Dołączenie do projektu LMS Plus
 
