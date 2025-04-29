@@ -18,7 +18,7 @@ jakość obsługi.
 
 Każdy uczestnik za opłatą miesięczną uzyskuje dostęp do prywatnego repozytorium git bazującego na publicznym repozytorium LMS-a. Przystąpienie do projektu jest możliwe na co najmniej rok. Po roku uczestnik może wycofać się z projektu za miesięcznym wypowiedzeniem.
 
-Opłata miesięczna uzależniona jest od zadeklarowanej przez uczestnika obsługiwanej liczby abonentów zgodnie z poniższym zasadami (warunki obowiązujące od **1 kwietnia 2025 roku**):
+Opłata miesięczna uzależniona jest od zadeklarowanej przez uczestnika obsługiwanej liczby abonentów zgodnie z poniższym zasadami (warunki obowiązujące od **1 kwietnia 2025 roku**; wszystkie ceny netto / bez podatku VAT):
 
 - **300 zł** (taryfa **LMS+ L**) - od **1000** abonentów,
 - **250 zł** (taryfa **LMS+ M**) - od **500** abonentów i poniżej **1000** abonentów,
