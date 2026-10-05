@@ -1,6 +1,6 @@
 # Obsługa KSeF w zakresie faktur sprzedaży i zakupu już dostępna w LMS+!
 
-## Korzyści uczestnika projektu LMS Plus
+## Korzyści uczestnika projektu LMS+
 
 Uczestnik uzyskuje dostęp do specjalnej gałęzi stabilnej LMS oraz utrzymywanych na bieżąco dodatków do publicznie dostępnej gałęzi LMS (lista wszystkich obecnie dostępnych dodatków jest dostępna poniżej i aktualizowana na bieżąco).
 Wszystkie dodatki przechowywane są w odrębnych gałęziach systemu kontroli wersji git. Dzięki temu możliwe jest
@@ -16,29 +16,35 @@ jakość obsługi.
     - listę mailingową lms-plus@lists.lms.org.pl,
     - system zgłoszeń (ang. issues) projektu w witrynie github.com.
 
-## Warunki uczestnictwa w projekcie LMS Plus
+## Warunki uczestnictwa w projekcie LMS+
 
-Każdy uczestnik za opłatą miesięczną uzyskuje dostęp do prywatnego repozytorium git bazującego na publicznym repozytorium LMS-a. Przystąpienie do projektu jest możliwe na co najmniej rok. Po roku uczestnik może wycofać się z projektu za miesięcznym wypowiedzeniem.
+Uczestnictwo w projekcie LMS+ odbywa się w ramach miesięcznej Subskrypcji. Subskrypcja jest zawierana na czas nieokreślony z minimalnym okresem uczestnictwa wynoszącym 12 miesięcy. Po upływie tego okresu każda ze Stron może zakończyć współpracę z jednomiesięcznym okresem wypowiedzenia, ze skutkiem na koniec miesiąca.
 
-Opłata miesięczna uzależniona jest od zadeklarowanej przez uczestnika obsługiwanej liczby abonentów zgodnie z poniższym zasadami (warunki obowiązujące od **1 maja 2025 roku**; wszystkie ceny netto / bez podatku VAT):
+Miesięczna opłata za Subskrypcję zależy od łącznej liczby abonentów obsługiwanych przez Uczestnika:
 
-- **300 zł** (taryfa **LMS+ L**) - dla firm obsługujących od **1000** abonentów,
-- **250 zł** (taryfa **LMS+ M**) - dla firm obsługujących od **500** do **999** abonentów,
-- **200 zł** (taryfa **LMS+ S**) - dla firm obsługujących poniżej **500** abonentów.
+- **200 zł netto** – wariant **LMS+ S** – poniżej 500 abonentów,
+- **250 zł netto** – wariant **LMS+ M** – od 500 do 999 abonentów,
+- **300 zł netto** – wariant **LMS+ L** – co najmniej 1000 abonentów.
 
-## Dołączenie do projektu LMS Plus
+Szczegółowe zasady ustalania opłaty określa [Cennik LMS+](/assets/files/Cennik_LMS+_2026.pdf).
+## Dołączenie do projektu LMS+
 
-Zapraszamy do dołączenia do projektu LMS Plus - można to zrobić wysyłając maila na adres [biuro@chilan.com](mailto:biuro@chilan.com?subject=projekt%20LMS%20Plus) o następującej treści:
-1. Dane firmy do wystawianych faktur.
-1. Adres e-mail, na który będą automatycznie wysyłane faktury.
-1. Deklarowana liczba obsługiwanych abonentów (w przypadku braku deklaracji przyjmiemy taryfę **LMS+ L** w cenie **300 zł**).
-1. Adres e-mail do zapisania na listę mailingową LMS Plus.
-1. Nazwa konta w systemie github.com (konto trzeba utworzyć samodzielnie).
-1. Załączony skan podpisanego i przypieczętowanego regulaminu projektu dostępnego poniżej:
+Zapraszamy do udziału w projekcie LMS+.
 
-    [Regulamin projektu LMS Plus](/assets/files/lms-plus-regulamin.pdf)
+Przed przystąpieniem do projektu prosimy o zapoznanie się z aktualnymi dokumentami:
 
-## Dostęp do repozytorium projektu LMS Plus
+- [Regulamin LMS+](/assets/files/Regulamin_LMS+_2026.pdf)
+- [Cennik LMS+](/assets/files/Cennik_LMS+_2026.pdf)
+- [Oświadczenie o przystąpieniu do projektu LMS+](/assets/files/Oswiadczenie_przystapienia_LMS+_2026.pdf)
+- [Klauzula informacyjna RODO](/assets/files/Klauzula_informacyjna_RODO_LMS+_2026.pdf)
+
+Aby przystąpić do projektu LMS+, należy wypełnić i podpisać **Oświadczenie o przystąpieniu do projektu LMS+**, a następnie przesłać je na adres [biuro@chilan.com](mailto:biuro@chilan.com?subject=Przystapienie%20do%20projektu%20LMS%2B).
+
+Oświadczenie zawiera dane potrzebne do identyfikacji Uczestnika, rozliczeń oraz uruchomienia dostępu do zasobów LMS+.
+
+Samo przesłanie Oświadczenia nie oznacza jeszcze przyjęcia do projektu. Subskrypcja rozpoczyna się z chwilą potwierdzenia przez Usługodawcę przyjęcia Uczestnika albo uruchomienia dostępu do zasobów LMS+.
+
+## Dostęp do repozytorium projektu LMS+
 
 1. [Przygotować parę kluczy ssh umożliwiających dostęp do repozytorium](https://help.github.com/articles/generating-ssh-keys/). Wygenerowane klucze służą skonfigurowaniu wygodnego dostępu SSH do własnego konta subskrybenta w serwisie **github.com**. Nie należy ich nam przesyłać!
 1. Dla wygody warto dopisać informacje o dostępie ssh do github w lokalnym pliku **~/.ssh/config**:
@@ -59,14 +65,14 @@ Zapraszamy do dołączenia do projektu LMS Plus - można to zrobić wysyłając 
     git clone git@github.com:chilek/lms-plus.git lms
     ```
 
-## Wymagania LMS Plus
+## Wymagania LMS+
 
 * system operacyjny RHEL 9 lub zgodny z nim binarnie (CentOS, RockyLinux, AlmaLinux),
 * baza danych PostgreSQL 16 lub wyższa,
 * Serwer WWW Apache w wersji 2.4,
 * PHP w wersji 8.1 - preferowana wersja to 8.2.
 
-## Spis gałęzi repozytorium projektu LMS Plus
+## Spis gałęzi repozytorium projektu LMS+
 
 **Uwaga: linki poniżej są dostępne wyłącznie dla uczestników projektu!**
 
